@@ -12,7 +12,9 @@ check:
 	$(MAKE) test
 	cd frontend && npm run typecheck && npm test && npm run build
 test:
-	$(VENV)/pytest --cov=whichcard --cov-report=term-missing
+	mkdir -p var
+	$(VENV)/pytest --cov=whichcard --cov-report=term-missing --cov-report=json:var/coverage.json
+	$(VENV)/python scripts/check_coverage.py
 run:
 	test -d frontend/dist || (cd frontend && npm run build)
 	$(VENV)/python -m whichcard.serve

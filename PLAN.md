@@ -1,5 +1,5 @@
 # Build plan
-Current task: M3 — inference and correction loop.
+Current task: M4 — rewards engine and golden cases.
 
 ## M0 Scaffold
 - [x] Repository layout, pinned Python/Node dependencies, Make targets, ignores and assumptions.
@@ -15,9 +15,9 @@ Current task: M3 — inference and correction loop.
 - [x] Deterministic 12-month JSON/CSV/OFX fixtures and manifest covering all required edge cases; scratch fixture DB.
 - [x] Adapter, dedupe and storage tests; make fixtures and make check; commit.
 ## M3 Inference
-- [ ] Normalizer, 250+ patterns, issuer categories, confidence, aliases, channel/recurring detection.
-- [ ] Overrides persisted on read, learned patterns, low-confidence queue and review CLI.
-- [ ] Coverage/ambiguity/override tests; make check; commit.
+- [x] Normalizer, 250+ patterns, issuer categories, confidence, aliases, channel/recurring detection.
+- [x] Overrides persisted on read, learned patterns, low-confidence queue and review CLI.
+- [x] Coverage/ambiguity/override tests; make check; commit.
 ## M4 Engine
 - [ ] Context/ranking, AND matches, partial/exhausted caps, activation warnings, offers, SUB override, foreign fees and ties.
 - [ ] Valuation ranges, arithmetic/reasons/confidence, engine README; API and recommend CLI.

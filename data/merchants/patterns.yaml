@@ -1,1 +1,2178 @@
-[]
+- pattern: COSTCO.*GAS
+  merchant_id: costco-gas
+  display_name: Costco Gas
+  category: gas
+  mcc: null
+  confidence: 0.4
+- pattern: COSTCO
+  merchant_id: costco
+  display_name: Costco
+  category: wholesale_club
+  mcc: null
+  confidence: 0.4
+- pattern: WALMART
+  merchant_id: walmart
+  display_name: Walmart
+  category: other
+  mcc: null
+  confidence: 0.4
+- pattern: TARGET
+  merchant_id: target
+  display_name: Target
+  category: other
+  mcc: null
+  confidence: 0.4
+- pattern: AMAZON|AMZN
+  merchant_id: amazon
+  display_name: Amazon
+  category: online_shopping
+  mcc: null
+  confidence: 0.4
+- pattern: \bCHIPOTLE\b
+  merchant_id: chipotle
+  display_name: Chipotle
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bSTARBUCKS\b
+  merchant_id: starbucks
+  display_name: Starbucks
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bMCDONALDS\b
+  merchant_id: mcdonalds
+  display_name: McDonalds
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bBURGER\ KING\b
+  merchant_id: burger-king
+  display_name: Burger King
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bWENDYS\b
+  merchant_id: wendys
+  display_name: Wendys
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bTACO\ BELL\b
+  merchant_id: taco-bell
+  display_name: Taco Bell
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bKFC\b
+  merchant_id: kfc
+  display_name: KFC
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bPOPEYES\b
+  merchant_id: popeyes
+  display_name: Popeyes
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bCHICK\ FIL\ A\b
+  merchant_id: chick-fil-a
+  display_name: Chick Fil A
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bPANERA\b
+  merchant_id: panera
+  display_name: Panera
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bSUBWAY\b
+  merchant_id: subway
+  display_name: Subway
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bJERSEY\ MIKES\b
+  merchant_id: jersey-mikes
+  display_name: Jersey Mikes
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bJIMMY\ JOHNS\b
+  merchant_id: jimmy-johns
+  display_name: Jimmy Johns
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bFIREHOUSE\ SUBS\b
+  merchant_id: firehouse-subs
+  display_name: Firehouse Subs
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bFIVE\ GUYS\b
+  merchant_id: five-guys
+  display_name: Five Guys
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bSHAKE\ SHACK\b
+  merchant_id: shake-shack
+  display_name: Shake Shack
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bIN\ N\ OUT\b
+  merchant_id: in-n-out
+  display_name: In N Out
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bWHATABURGER\b
+  merchant_id: whataburger
+  display_name: Whataburger
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bCULVERS\b
+  merchant_id: culvers
+  display_name: Culvers
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bSONIC\b
+  merchant_id: sonic
+  display_name: Sonic
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bDAIRY\ QUEEN\b
+  merchant_id: dairy-queen
+  display_name: Dairy Queen
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bARBYS\b
+  merchant_id: arbys
+  display_name: Arbys
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bJACK\ IN\ THE\ BOX\b
+  merchant_id: jack-in-the-box
+  display_name: Jack In The Box
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bDEL\ TACO\b
+  merchant_id: del-taco
+  display_name: Del Taco
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bEL\ POLLO\ LOCO\b
+  merchant_id: el-pollo-loco
+  display_name: El Pollo Loco
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bPANDA\ EXPRESS\b
+  merchant_id: panda-express
+  display_name: Panda Express
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bPF\ CHANGS\b
+  merchant_id: pf-changs
+  display_name: PF Changs
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bOLIVE\ GARDEN\b
+  merchant_id: olive-garden
+  display_name: Olive Garden
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bRED\ LOBSTER\b
+  merchant_id: red-lobster
+  display_name: Red Lobster
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bLONGHORN\b
+  merchant_id: longhorn
+  display_name: Longhorn
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bOUTBACK\b
+  merchant_id: outback
+  display_name: Outback
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bTEXAS\ ROADHOUSE\b
+  merchant_id: texas-roadhouse
+  display_name: Texas Roadhouse
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bAPPLEBEES\b
+  merchant_id: applebees
+  display_name: Applebees
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bCHILIS\b
+  merchant_id: chilis
+  display_name: Chilis
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bCHEESECAKE\ FACTORY\b
+  merchant_id: cheesecake-factory
+  display_name: Cheesecake Factory
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bBUFFALO\ WILD\ WINGS\b
+  merchant_id: buffalo-wild-wings
+  display_name: Buffalo Wild Wings
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bWINGSTOP\b
+  merchant_id: wingstop
+  display_name: Wingstop
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bDOMINOS\b
+  merchant_id: dominos
+  display_name: Dominos
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bPIZZA\ HUT\b
+  merchant_id: pizza-hut
+  display_name: Pizza Hut
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bPAPA\ JOHNS\b
+  merchant_id: papa-johns
+  display_name: Papa Johns
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bLITTLE\ CAESARS\b
+  merchant_id: little-caesars
+  display_name: Little Caesars
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bMOD\ PIZZA\b
+  merchant_id: mod-pizza
+  display_name: MOD Pizza
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bBLAZE\ PIZZA\b
+  merchant_id: blaze-pizza
+  display_name: Blaze Pizza
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bCALIFORNIA\ PIZZA\ KITCHEN\b
+  merchant_id: california-pizza-kitchen
+  display_name: California Pizza Kitchen
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bSWEETGREEN\b
+  merchant_id: sweetgreen
+  display_name: Sweetgreen
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bCAVA\b
+  merchant_id: cava
+  display_name: Cava
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bNOODLES\b
+  merchant_id: noodles
+  display_name: Noodles
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bQDOBA\b
+  merchant_id: qdoba
+  display_name: Qdoba
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bMOES\ SOUTHWEST\b
+  merchant_id: moes-southwest
+  display_name: Moes Southwest
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bBOJANGLES\b
+  merchant_id: bojangles
+  display_name: Bojangles
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bZAXBYS\b
+  merchant_id: zaxbys
+  display_name: Zaxbys
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bRAISING\ CANES\b
+  merchant_id: raising-canes
+  display_name: Raising Canes
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bTIM\ HORTONS\b
+  merchant_id: tim-hortons
+  display_name: Tim Hortons
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bDUNKIN\b
+  merchant_id: dunkin
+  display_name: Dunkin
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bPEETS\b
+  merchant_id: peets
+  display_name: Peets
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bBLUE\ BOTTLE\b
+  merchant_id: blue-bottle
+  display_name: Blue Bottle
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bPHILZ\b
+  merchant_id: philz
+  display_name: Philz
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bDUTCH\ BROS\b
+  merchant_id: dutch-bros
+  display_name: Dutch Bros
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bCARIBOU\ COFFEE\b
+  merchant_id: caribou-coffee
+  display_name: Caribou Coffee
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bCOFFEE\ BEAN\b
+  merchant_id: coffee-bean
+  display_name: Coffee Bean
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bJAMBA\b
+  merchant_id: jamba
+  display_name: Jamba
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bSMOOTHIE\ KING\b
+  merchant_id: smoothie-king
+  display_name: Smoothie King
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bTROPICAL\ SMOOTHIE\b
+  merchant_id: tropical-smoothie
+  display_name: Tropical Smoothie
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bCOLD\ STONE\b
+  merchant_id: cold-stone
+  display_name: Cold Stone
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bBASKIN\ ROBBINS\b
+  merchant_id: baskin-robbins
+  display_name: Baskin Robbins
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bBEN\ JERRYS\b
+  merchant_id: ben-jerrys
+  display_name: Ben Jerrys
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bKRISPY\ KREME\b
+  merchant_id: krispy-kreme
+  display_name: Krispy Kreme
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bEINSTEIN\ BROS\b
+  merchant_id: einstein-bros
+  display_name: Einstein Bros
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bIHOP\b
+  merchant_id: ihop
+  display_name: IHOP
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bDENNYS\b
+  merchant_id: dennys
+  display_name: Dennys
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bWAFFLE\ HOUSE\b
+  merchant_id: waffle-house
+  display_name: Waffle House
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bCRACKER\ BARREL\b
+  merchant_id: cracker-barrel
+  display_name: Cracker Barrel
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bBOB\ EVANS\b
+  merchant_id: bob-evans
+  display_name: Bob Evans
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bFIRST\ WATCH\b
+  merchant_id: first-watch
+  display_name: First Watch
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bSHAKE\ SMART\b
+  merchant_id: shake-smart
+  display_name: Shake Smart
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bPRET\ A\ MANGER\b
+  merchant_id: pret-a-manger
+  display_name: Pret A Manger
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bAU\ BON\ PAIN\b
+  merchant_id: au-bon-pain
+  display_name: Au Bon Pain
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bPOTBELLY\b
+  merchant_id: potbelly
+  display_name: Potbelly
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bJASON\ DELI\b
+  merchant_id: jason-deli
+  display_name: Jason Deli
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bMCALISTERS\b
+  merchant_id: mcalisters
+  display_name: McAlisters
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bSCHLOTZSKYS\b
+  merchant_id: schlotzskys
+  display_name: Schlotzskys
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bRUBIOS\b
+  merchant_id: rubios
+  display_name: Rubios
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bTORCHYS\b
+  merchant_id: torchys
+  display_name: Torchys
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bSALT\ STRAW\b
+  merchant_id: salt-straw
+  display_name: Salt Straw
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bNOTHING\ BUNDT\b
+  merchant_id: nothing-bundt
+  display_name: Nothing Bundt
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bINSOMNIA\ COOKIES\b
+  merchant_id: insomnia-cookies
+  display_name: Insomnia Cookies
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bCRUMBL\b
+  merchant_id: crumbl
+  display_name: Crumbl
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bDOORDASH\b
+  merchant_id: doordash
+  display_name: DoorDash
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bUBER\ EATS\b
+  merchant_id: ubereats
+  display_name: Uber Eats
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bGRUBHUB\b
+  merchant_id: grubhub
+  display_name: Grubhub
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bPOSTMATES\b
+  merchant_id: postmates
+  display_name: Postmates
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bSEAMLESS\b
+  merchant_id: seamless
+  display_name: Seamless
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bTOAST\ TAKEOUT\b
+  merchant_id: toast-takeout
+  display_name: Toast Takeout
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bRESY\b
+  merchant_id: resy
+  display_name: Resy
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bOPENTABLE\b
+  merchant_id: opentable
+  display_name: OpenTable
+  category: dining
+  mcc: 5812
+  confidence: 0.95
+- pattern: \bSAFEWAY\b
+  merchant_id: safeway
+  display_name: Safeway
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bKROGER\b
+  merchant_id: kroger
+  display_name: Kroger
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bALBERTSONS\b
+  merchant_id: albertsons
+  display_name: Albertsons
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bVONS\b
+  merchant_id: vons
+  display_name: Vons
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bPAVILIONS\b
+  merchant_id: pavilions
+  display_name: Pavilions
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bRALPHS\b
+  merchant_id: ralphs
+  display_name: Ralphs
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bFRED\ MEYER\b
+  merchant_id: fred-meyer
+  display_name: Fred Meyer
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bQFC\b
+  merchant_id: qfc
+  display_name: QFC
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bKING\ SOOPERS\b
+  merchant_id: king-soopers
+  display_name: King Soopers
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bFRYS\ FOOD\b
+  merchant_id: frys-food
+  display_name: Frys Food
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bSMITHS\ FOOD\b
+  merchant_id: smiths-food
+  display_name: Smiths Food
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bHARRIS\ TEETER\b
+  merchant_id: harris-teeter
+  display_name: Harris Teeter
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bFOOD\ LION\b
+  merchant_id: food-lion
+  display_name: Food Lion
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bGIANT\ EAGLE\b
+  merchant_id: giant-eagle
+  display_name: Giant Eagle
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bGIANT\ FOOD\b
+  merchant_id: giant-food
+  display_name: Giant Food
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bSTOP\ SHOP\b
+  merchant_id: stop-shop
+  display_name: Stop Shop
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bSHOPRITE\b
+  merchant_id: shoprite
+  display_name: ShopRite
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bWEGMANS\b
+  merchant_id: wegmans
+  display_name: Wegmans
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bPUBLIX\b
+  merchant_id: publix
+  display_name: Publix
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bHEB\b
+  merchant_id: heb
+  display_name: HEB
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bCENTRAL\ MARKET\b
+  merchant_id: central-market
+  display_name: Central Market
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bWHOLE\ FOODS\b
+  merchant_id: whole-foods
+  display_name: Whole Foods
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bTRADER\ JOES\b
+  merchant_id: trader-joes
+  display_name: Trader Joes
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bSPROUTS\b
+  merchant_id: sprouts
+  display_name: Sprouts
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bALDI\b
+  merchant_id: aldi
+  display_name: Aldi
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bLIDL\b
+  merchant_id: lidl
+  display_name: Lidl
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bWINCO\b
+  merchant_id: winco
+  display_name: WinCo
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bWINN\ DIXIE\b
+  merchant_id: winn-dixie
+  display_name: Winn Dixie
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bMEIJER\b
+  merchant_id: meijer
+  display_name: Meijer
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bHY\ VEE\b
+  merchant_id: hy-vee
+  display_name: Hy Vee
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bHANNAFORD\b
+  merchant_id: hannaford
+  display_name: Hannaford
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bMARKET\ BASKET\b
+  merchant_id: market-basket
+  display_name: Market Basket
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bSHAWS\b
+  merchant_id: shaws
+  display_name: Shaws
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bACME\ MARKETS\b
+  merchant_id: acme-markets
+  display_name: Acme Markets
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bJEWEL\ OSCO\b
+  merchant_id: jewel-osco
+  display_name: Jewel Osco
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bSTATER\ BROS\b
+  merchant_id: stater-bros
+  display_name: Stater Bros
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bSAVE\ MART\b
+  merchant_id: save-mart
+  display_name: Save Mart
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bLUCKY\ SUPERMARKETS\b
+  merchant_id: lucky-supermarkets
+  display_name: Lucky Supermarkets
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bFOOD4LESS\b
+  merchant_id: food4less
+  display_name: Food4Less
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bGROCERY\ OUTLET\b
+  merchant_id: grocery-outlet
+  display_name: Grocery Outlet
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bSMART\ FINAL\b
+  merchant_id: smart-final
+  display_name: Smart Final
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bNATURAL\ GROCERS\b
+  merchant_id: natural-grocers
+  display_name: Natural Grocers
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bFRESH\ MARKET\b
+  merchant_id: fresh-market
+  display_name: Fresh Market
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bFRESH\ THYME\b
+  merchant_id: fresh-thyme
+  display_name: Fresh Thyme
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bBRISTOL\ FARMS\b
+  merchant_id: bristol-farms
+  display_name: Bristol Farms
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bGELSONS\b
+  merchant_id: gelsons
+  display_name: Gelsons
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bNEW\ SEASONS\b
+  merchant_id: new-seasons
+  display_name: New Seasons
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bPCC\ COMMUNITY\b
+  merchant_id: pcc-community
+  display_name: PCC Community
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bMITSUWA\b
+  merchant_id: mitsuwa
+  display_name: Mitsuwa
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bH\ MART\b
+  merchant_id: h-mart
+  display_name: H Mart
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \b99\ RANCH\b
+  merchant_id: 99-ranch
+  display_name: 99 Ranch
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bPATEL\ BROTHERS\b
+  merchant_id: patel-brothers
+  display_name: Patel Brothers
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bAPOLONIA\b
+  merchant_id: apolonia
+  display_name: Apolonia
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bINSTACART\b
+  merchant_id: instacart
+  display_name: Instacart
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bFRESHDIRECT\b
+  merchant_id: freshdirect
+  display_name: FreshDirect
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bAMAZON\ FRESH\b
+  merchant_id: amazon-fresh
+  display_name: Amazon Fresh
+  category: grocery
+  mcc: 5411
+  confidence: 0.95
+- pattern: \bSHELL\b
+  merchant_id: shell
+  display_name: Shell
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bCHEVRON\b
+  merchant_id: chevron
+  display_name: Chevron
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bTEXACO\b
+  merchant_id: texaco
+  display_name: Texaco
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bEXXON\b
+  merchant_id: exxon
+  display_name: Exxon
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bMOBIL\b
+  merchant_id: mobil
+  display_name: Mobil
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bBP\b
+  merchant_id: bp
+  display_name: BP
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bARCO\b
+  merchant_id: arco
+  display_name: Arco
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \b76\b
+  merchant_id: '76'
+  display_name: '76'
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bPHILLIPS\ 66\b
+  merchant_id: phillips-66
+  display_name: Phillips 66
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bCONOCO\b
+  merchant_id: conoco
+  display_name: Conoco
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bSUNOCO\b
+  merchant_id: sunoco
+  display_name: Sunoco
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bVALERO\b
+  merchant_id: valero
+  display_name: Valero
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bCITGO\b
+  merchant_id: citgo
+  display_name: Citgo
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bMARATHON\b
+  merchant_id: marathon
+  display_name: Marathon
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bSPEEDWAY\b
+  merchant_id: speedway
+  display_name: Speedway
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bCIRCLE\ K\b
+  merchant_id: circle-k
+  display_name: Circle K
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bQUIKTRIP\b
+  merchant_id: quiktrip
+  display_name: QuikTrip
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bKWIK\ TRIP\b
+  merchant_id: kwik-trip
+  display_name: Kwik Trip
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bWAWA\b
+  merchant_id: wawa
+  display_name: Wawa
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bSHEETZ\b
+  merchant_id: sheetz
+  display_name: Sheetz
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bCASEYS\b
+  merchant_id: caseys
+  display_name: Caseys
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bRACETRAC\b
+  merchant_id: racetrac
+  display_name: RaceTrac
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bRACEWAY\b
+  merchant_id: raceway
+  display_name: Raceway
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bMURPHY\ USA\b
+  merchant_id: murphy-usa
+  display_name: Murphy USA
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bPILOT\b
+  merchant_id: pilot
+  display_name: Pilot
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bFLYING\ J\b
+  merchant_id: flying-j
+  display_name: Flying J
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bLOVES\ TRAVEL\b
+  merchant_id: loves-travel
+  display_name: Loves Travel
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bSINCLAIR\b
+  merchant_id: sinclair
+  display_name: Sinclair
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bGULF\b
+  merchant_id: gulf
+  display_name: Gulf
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bKUM\ GO\b
+  merchant_id: kum-go
+  display_name: Kum Go
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bMAVERIK\b
+  merchant_id: maverik
+  display_name: Maverik
+  category: gas
+  mcc: 5541
+  confidence: 0.95
+- pattern: \bUNITED\ AIRLINES\b
+  merchant_id: united
+  display_name: United Airlines
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bDELTA\ AIR\b
+  merchant_id: delta
+  display_name: Delta Air
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bAMERICAN\ AIRLINES\b
+  merchant_id: american-airlines
+  display_name: American Airlines
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bSOUTHWEST\b
+  merchant_id: southwest
+  display_name: Southwest
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bALASKA\ AIRLINES\b
+  merchant_id: alaska-airlines
+  display_name: Alaska Airlines
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bJETBLUE\b
+  merchant_id: jetblue
+  display_name: JetBlue
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bSPIRIT\ AIRLINES\b
+  merchant_id: spirit-airlines
+  display_name: Spirit Airlines
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bFRONTIER\ AIRLINES\b
+  merchant_id: frontier-airlines
+  display_name: Frontier Airlines
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bHAWAIIAN\ AIRLINES\b
+  merchant_id: hawaiian-airlines
+  display_name: Hawaiian Airlines
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bALLEGIANT\b
+  merchant_id: allegiant
+  display_name: Allegiant
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bAIR\ CANADA\b
+  merchant_id: air-canada
+  display_name: Air Canada
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bWESTJET\b
+  merchant_id: westjet
+  display_name: WestJet
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bBRITISH\ AIRWAYS\b
+  merchant_id: british-airways
+  display_name: British Airways
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bVIRGIN\ ATLANTIC\b
+  merchant_id: virgin-atlantic
+  display_name: Virgin Atlantic
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bAIR\ FRANCE\b
+  merchant_id: air-france
+  display_name: Air France
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bKLM\b
+  merchant_id: klm
+  display_name: KLM
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bLUFTHANSA\b
+  merchant_id: lufthansa
+  display_name: Lufthansa
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bSWISS\ AIR\b
+  merchant_id: swiss-air
+  display_name: Swiss Air
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bIBERIA\b
+  merchant_id: iberia
+  display_name: Iberia
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bTAP\ PORTUGAL\b
+  merchant_id: tap-portugal
+  display_name: TAP Portugal
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bTURKISH\ AIRLINES\b
+  merchant_id: turkish-airlines
+  display_name: Turkish Airlines
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bEMIRATES\b
+  merchant_id: emirates
+  display_name: Emirates
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bQATAR\ AIRWAYS\b
+  merchant_id: qatar-airways
+  display_name: Qatar Airways
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bETIHAD\b
+  merchant_id: etihad
+  display_name: Etihad
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bSINGAPORE\ AIRLINES\b
+  merchant_id: singapore-airlines
+  display_name: Singapore Airlines
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bCATHAY\ PACIFIC\b
+  merchant_id: cathay-pacific
+  display_name: Cathay Pacific
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bANA\ ALL\ NIPPON\b
+  merchant_id: ana-all-nippon
+  display_name: ANA All Nippon
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bJAPAN\ AIRLINES\b
+  merchant_id: japan-airlines
+  display_name: Japan Airlines
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bKOREAN\ AIR\b
+  merchant_id: korean-air
+  display_name: Korean Air
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bASIANA\b
+  merchant_id: asiana
+  display_name: Asiana
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bQANTAS\b
+  merchant_id: qantas
+  display_name: Qantas
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bAIR\ NEW\ ZEALAND\b
+  merchant_id: air-new-zealand
+  display_name: Air New Zealand
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bAEROMEXICO\b
+  merchant_id: aeromexico
+  display_name: Aeromexico
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bLATAM\b
+  merchant_id: latam
+  display_name: LATAM
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bAVIANCA\b
+  merchant_id: avianca
+  display_name: Avianca
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bCOPA\ AIRLINES\b
+  merchant_id: copa-airlines
+  display_name: Copa Airlines
+  category: airfare
+  mcc: null
+  confidence: 0.95
+- pattern: \bMARRIOTT\b
+  merchant_id: marriott
+  display_name: Marriott
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bHILTON\b
+  merchant_id: hilton
+  display_name: Hilton
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bHYATT\b
+  merchant_id: hyatt
+  display_name: Hyatt
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bSHERATON\b
+  merchant_id: sheraton
+  display_name: Sheraton
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bWESTIN\b
+  merchant_id: westin
+  display_name: Westin
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bRITZ\ CARLTON\b
+  merchant_id: ritz-carlton
+  display_name: Ritz Carlton
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bST\ REGIS\b
+  merchant_id: st-regis
+  display_name: St Regis
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bW\ HOTELS\b
+  merchant_id: w-hotels
+  display_name: W Hotels
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bCOURTYARD\b
+  merchant_id: courtyard
+  display_name: Courtyard
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bFAIRFIELD\ INN\b
+  merchant_id: fairfield-inn
+  display_name: Fairfield Inn
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bRESIDENCE\ INN\b
+  merchant_id: residence-inn
+  display_name: Residence Inn
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bSPRINGHILL\b
+  merchant_id: springhill
+  display_name: SpringHill
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bTOWNEPLACE\b
+  merchant_id: towneplace
+  display_name: TownePlace
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bALOFT\b
+  merchant_id: aloft
+  display_name: Aloft
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bMOXY\b
+  merchant_id: moxy
+  display_name: Moxy
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bAUTOGRAPH\ COLLECTION\b
+  merchant_id: autograph-collection
+  display_name: Autograph Collection
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bHAMPTON\ INN\b
+  merchant_id: hampton-inn
+  display_name: Hampton Inn
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bDOUBLETREE\b
+  merchant_id: doubletree
+  display_name: DoubleTree
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bEMBASSY\ SUITES\b
+  merchant_id: embassy-suites
+  display_name: Embassy Suites
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bHOMEWOOD\ SUITES\b
+  merchant_id: homewood-suites
+  display_name: Homewood Suites
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bHOME2\ SUITES\b
+  merchant_id: home2-suites
+  display_name: Home2 Suites
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bTRU\ BY\ HILTON\b
+  merchant_id: tru-by-hilton
+  display_name: Tru By Hilton
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bCONRAD\b
+  merchant_id: conrad
+  display_name: Conrad
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bWALDORF\ ASTORIA\b
+  merchant_id: waldorf-astoria
+  display_name: Waldorf Astoria
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bHILTON\ GARDEN\b
+  merchant_id: hilton-garden
+  display_name: Hilton Garden
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bHOLIDAY\ INN\b
+  merchant_id: holiday-inn
+  display_name: Holiday Inn
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bINTERCONTINENTAL\b
+  merchant_id: intercontinental
+  display_name: InterContinental
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bCROWNE\ PLAZA\b
+  merchant_id: crowne-plaza
+  display_name: Crowne Plaza
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bKIMPTON\b
+  merchant_id: kimpton
+  display_name: Kimpton
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bSTAYBRIDGE\b
+  merchant_id: staybridge
+  display_name: Staybridge
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bCANDLEWOOD\b
+  merchant_id: candlewood
+  display_name: Candlewood
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bHOTEL\ INDIGO\b
+  merchant_id: hotel-indigo
+  display_name: Hotel Indigo
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bWYNDHAM\b
+  merchant_id: wyndham
+  display_name: Wyndham
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bLA\ QUINTA\b
+  merchant_id: la-quinta
+  display_name: La Quinta
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bDAYS\ INN\b
+  merchant_id: days-inn
+  display_name: Days Inn
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bSUPER\ 8\b
+  merchant_id: super-8
+  display_name: Super 8
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bRAMADA\b
+  merchant_id: ramada
+  display_name: Ramada
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bBEST\ WESTERN\b
+  merchant_id: best-western
+  display_name: Best Western
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bCHOICE\ HOTELS\b
+  merchant_id: choice-hotels
+  display_name: Choice Hotels
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bCOMFORT\ INN\b
+  merchant_id: comfort-inn
+  display_name: Comfort Inn
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bQUALITY\ INN\b
+  merchant_id: quality-inn
+  display_name: Quality Inn
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bSLEEP\ INN\b
+  merchant_id: sleep-inn
+  display_name: Sleep Inn
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bECONO\ LODGE\b
+  merchant_id: econo-lodge
+  display_name: Econo Lodge
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bMOTEL\ 6\b
+  merchant_id: motel-6
+  display_name: Motel 6
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bRED\ ROOF\b
+  merchant_id: red-roof
+  display_name: Red Roof
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bFOUR\ SEASONS\b
+  merchant_id: four-seasons
+  display_name: Four Seasons
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bMANDARIN\ ORIENTAL\b
+  merchant_id: mandarin-oriental
+  display_name: Mandarin Oriental
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bFAIRMONT\b
+  merchant_id: fairmont
+  display_name: Fairmont
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bSOFITEL\b
+  merchant_id: sofitel
+  display_name: Sofitel
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bNOVOTEL\b
+  merchant_id: novotel
+  display_name: Novotel
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bIBIS\b
+  merchant_id: ibis
+  display_name: Ibis
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bACCOR\b
+  merchant_id: accor
+  display_name: Accor
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bAIRBNB\b
+  merchant_id: airbnb
+  display_name: Airbnb
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bVRBO\b
+  merchant_id: vrbo
+  display_name: VRBO
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bBOOKING\.COM\b
+  merchant_id: booking-com
+  display_name: Booking.com
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bEXPEDIA\b
+  merchant_id: expedia
+  display_name: Expedia
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bHOTELS\.COM\b
+  merchant_id: hotels-com
+  display_name: Hotels.com
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bCHASE\ TRAVEL\b
+  merchant_id: chase-travel
+  display_name: Chase Travel
+  category: lodging
+  mcc: null
+  confidence: 0.95
+- pattern: \bCVS\b
+  merchant_id: cvs
+  display_name: CVS
+  category: drugstore
+  mcc: null
+  confidence: 0.95
+- pattern: \bWALGREENS\b
+  merchant_id: walgreens
+  display_name: Walgreens
+  category: drugstore
+  mcc: null
+  confidence: 0.95
+- pattern: \bRITE\ AID\b
+  merchant_id: rite-aid
+  display_name: Rite Aid
+  category: drugstore
+  mcc: null
+  confidence: 0.95
+- pattern: \bDUANE\ READE\b
+  merchant_id: duane-reade
+  display_name: Duane Reade
+  category: drugstore
+  mcc: null
+  confidence: 0.95
+- pattern: \bBARTELL\ DRUGS\b
+  merchant_id: bartell-drugs
+  display_name: Bartell Drugs
+  category: drugstore
+  mcc: null
+  confidence: 0.95
+- pattern: \bNETFLIX\b
+  merchant_id: netflix
+  display_name: Netflix
+  category: streaming
+  mcc: null
+  confidence: 0.95
+- pattern: \bHULU\b
+  merchant_id: hulu
+  display_name: Hulu
+  category: streaming
+  mcc: null
+  confidence: 0.95
+- pattern: \bDISNEY\ PLUS\b
+  merchant_id: disney-plus
+  display_name: Disney Plus
+  category: streaming
+  mcc: null
+  confidence: 0.95
+- pattern: \bDISNEYPLUS\b
+  merchant_id: disneyplus
+  display_name: Disneyplus
+  category: streaming
+  mcc: null
+  confidence: 0.95
+- pattern: \bHBO\ MAX\b
+  merchant_id: hbo-max
+  display_name: HBO Max
+  category: streaming
+  mcc: null
+  confidence: 0.95
+- pattern: \bMAX\.COM\b
+  merchant_id: max-com
+  display_name: Max.com
+  category: streaming
+  mcc: null
+  confidence: 0.95
+- pattern: \bSPOTIFY\b
+  merchant_id: spotify
+  display_name: Spotify
+  category: streaming
+  mcc: null
+  confidence: 0.95
+- pattern: \bAPPLE\ MUSIC\b
+  merchant_id: apple-music
+  display_name: Apple Music
+  category: streaming
+  mcc: null
+  confidence: 0.95
+- pattern: \bAPPLE\ TV\b
+  merchant_id: apple-tv
+  display_name: Apple TV
+  category: streaming
+  mcc: null
+  confidence: 0.95
+- pattern: \bYOUTUBE\ PREMIUM\b
+  merchant_id: youtube-premium
+  display_name: YouTube Premium
+  category: streaming
+  mcc: null
+  confidence: 0.95
+- pattern: \bYOUTUBE\ TV\b
+  merchant_id: youtube-tv
+  display_name: YouTube TV
+  category: streaming
+  mcc: null
+  confidence: 0.95
+- pattern: \bPEACOCK\b
+  merchant_id: peacock
+  display_name: Peacock
+  category: streaming
+  mcc: null
+  confidence: 0.95
+- pattern: \bPARAMOUNT\ PLUS\b
+  merchant_id: paramount-plus
+  display_name: Paramount Plus
+  category: streaming
+  mcc: null
+  confidence: 0.95
+- pattern: \bPANDORA\b
+  merchant_id: pandora
+  display_name: Pandora
+  category: streaming
+  mcc: null
+  confidence: 0.95
+- pattern: \bSIRIUSXM\b
+  merchant_id: siriusxm
+  display_name: SiriusXM
+  category: streaming
+  mcc: null
+  confidence: 0.95
+- pattern: \bAUDIBLE\b
+  merchant_id: audible
+  display_name: Audible
+  category: streaming
+  mcc: null
+  confidence: 0.95
+- pattern: \bCRUNCHYROLL\b
+  merchant_id: crunchyroll
+  display_name: Crunchyroll
+  category: streaming
+  mcc: null
+  confidence: 0.95
+- pattern: \bFUBO\b
+  merchant_id: fubo
+  display_name: Fubo
+  category: streaming
+  mcc: null
+  confidence: 0.95
+- pattern: \bSLING\ TV\b
+  merchant_id: sling-tv
+  display_name: Sling TV
+  category: streaming
+  mcc: null
+  confidence: 0.95
+- pattern: \bETSY\b
+  merchant_id: etsy
+  display_name: Etsy
+  category: online_shopping
+  mcc: null
+  confidence: 0.95
+- pattern: \bEBAY\b
+  merchant_id: ebay
+  display_name: eBay
+  category: online_shopping
+  mcc: null
+  confidence: 0.95
+- pattern: \bWAYFAIR\b
+  merchant_id: wayfair
+  display_name: Wayfair
+  category: online_shopping
+  mcc: null
+  confidence: 0.95
+- pattern: \bCHEWY\b
+  merchant_id: chewy
+  display_name: Chewy
+  category: online_shopping
+  mcc: null
+  confidence: 0.95
+- pattern: \bZAPPOS\b
+  merchant_id: zappos
+  display_name: Zappos
+  category: online_shopping
+  mcc: null
+  confidence: 0.95
+- pattern: \bNEWEGG\b
+  merchant_id: newegg
+  display_name: Newegg
+  category: online_shopping
+  mcc: null
+  confidence: 0.95
+- pattern: \bASOS\b
+  merchant_id: asos
+  display_name: ASOS
+  category: online_shopping
+  mcc: null
+  confidence: 0.95
+- pattern: \bTEMU\b
+  merchant_id: temu
+  display_name: Temu
+  category: online_shopping
+  mcc: null
+  confidence: 0.95
+- pattern: \bSHEIN\b
+  merchant_id: shein
+  display_name: Shein
+  category: online_shopping
+  mcc: null
+  confidence: 0.95
+- pattern: \bHOME\ DEPOT\b
+  merchant_id: home-depot
+  display_name: Home Depot
+  category: home_improvement
+  mcc: null
+  confidence: 0.95
+- pattern: \bLOWES\b
+  merchant_id: lowes
+  display_name: Lowes
+  category: home_improvement
+  mcc: null
+  confidence: 0.95
+- pattern: \bACE\ HARDWARE\b
+  merchant_id: ace-hardware
+  display_name: Ace Hardware
+  category: home_improvement
+  mcc: null
+  confidence: 0.95
+- pattern: \bMENARDS\b
+  merchant_id: menards
+  display_name: Menards
+  category: home_improvement
+  mcc: null
+  confidence: 0.95
+- pattern: \bHARBOR\ FREIGHT\b
+  merchant_id: harbor-freight
+  display_name: Harbor Freight
+  category: home_improvement
+  mcc: null
+  confidence: 0.95
+- pattern: \bTRUE\ VALUE\b
+  merchant_id: true-value
+  display_name: True Value
+  category: home_improvement
+  mcc: null
+  confidence: 0.95
+- pattern: \bUBER\ TRIP\b
+  merchant_id: uber-trip
+  display_name: Uber Trip
+  category: transit
+  mcc: null
+  confidence: 0.95
+- pattern: \bLYFT\b
+  merchant_id: lyft
+  display_name: Lyft
+  category: transit
+  mcc: null
+  confidence: 0.95
+- pattern: \bBART\b
+  merchant_id: bart
+  display_name: BART
+  category: transit
+  mcc: null
+  confidence: 0.95
+- pattern: \bMTA\b
+  merchant_id: mta
+  display_name: MTA
+  category: transit
+  mcc: null
+  confidence: 0.95
+- pattern: \bWMATA\b
+  merchant_id: wmata
+  display_name: WMATA
+  category: transit
+  mcc: null
+  confidence: 0.95
+- pattern: \bAMTRAK\b
+  merchant_id: amtrak
+  display_name: Amtrak
+  category: transit
+  mcc: null
+  confidence: 0.95
+- pattern: \bCALTRAIN\b
+  merchant_id: caltrain
+  display_name: Caltrain
+  category: transit
+  mcc: null
+  confidence: 0.95
+- pattern: \bMETROLINK\b
+  merchant_id: metrolink
+  display_name: Metrolink
+  category: transit
+  mcc: null
+  confidence: 0.95
+- pattern: \bCLIPPER\b
+  merchant_id: clipper
+  display_name: Clipper
+  category: transit
+  mcc: null
+  confidence: 0.95
+- pattern: \bVENTRA\b
+  merchant_id: ventra
+  display_name: Ventra
+  category: transit
+  mcc: null
+  confidence: 0.95
+- pattern: \bMBTA\b
+  merchant_id: mbta
+  display_name: MBTA
+  category: transit
+  mcc: null
+  confidence: 0.95
+- pattern: \bSEPTA\b
+  merchant_id: septa
+  display_name: SEPTA
+  category: transit
+  mcc: null
+  confidence: 0.95
+- pattern: \bNJ\ TRANSIT\b
+  merchant_id: nj-transit
+  display_name: NJ Transit
+  category: transit
+  mcc: null
+  confidence: 0.95
+- pattern: \bAMC\ THEATRES\b
+  merchant_id: amc-theatres
+  display_name: AMC Theatres
+  category: entertainment
+  mcc: null
+  confidence: 0.95
+- pattern: \bREGAL\ CINEMAS\b
+  merchant_id: regal-cinemas
+  display_name: Regal Cinemas
+  category: entertainment
+  mcc: null
+  confidence: 0.95
+- pattern: \bCINEMARK\b
+  merchant_id: cinemark
+  display_name: Cinemark
+  category: entertainment
+  mcc: null
+  confidence: 0.95
+- pattern: \bFANDANGO\b
+  merchant_id: fandango
+  display_name: Fandango
+  category: entertainment
+  mcc: null
+  confidence: 0.95
+- pattern: \bTICKETMASTER\b
+  merchant_id: ticketmaster
+  display_name: Ticketmaster
+  category: entertainment
+  mcc: null
+  confidence: 0.95
+- pattern: \bSTUBHUB\b
+  merchant_id: stubhub
+  display_name: StubHub
+  category: entertainment
+  mcc: null
+  confidence: 0.95
+- pattern: \bLIVE\ NATION\b
+  merchant_id: live-nation
+  display_name: Live Nation
+  category: entertainment
+  mcc: null
+  confidence: 0.95
+- pattern: \bEVENTBRITE\b
+  merchant_id: eventbrite
+  display_name: Eventbrite
+  category: entertainment
+  mcc: null
+  confidence: 0.95
+- pattern: \bSIX\ FLAGS\b
+  merchant_id: six-flags
+  display_name: Six Flags
+  category: entertainment
+  mcc: null
+  confidence: 0.95
+- pattern: \bDISNEYLAND\b
+  merchant_id: disneyland
+  display_name: Disneyland
+  category: entertainment
+  mcc: null
+  confidence: 0.95
+- pattern: \bUNIVERSAL\ STUDIOS\b
+  merchant_id: universal-studios
+  display_name: Universal Studios
+  category: entertainment
+  mcc: null
+  confidence: 0.95
+- pattern: \bSEAWORLD\b
+  merchant_id: seaworld
+  display_name: SeaWorld
+  category: entertainment
+  mcc: null
+  confidence: 0.95
+- pattern: \bTOPGOLF\b
+  merchant_id: topgolf
+  display_name: Topgolf
+  category: entertainment
+  mcc: null
+  confidence: 0.95
+- pattern: \bCOMCAST\b
+  merchant_id: comcast
+  display_name: Comcast
+  category: utilities
+  mcc: null
+  confidence: 0.95
+- pattern: \bXFINITY\b
+  merchant_id: xfinity
+  display_name: Xfinity
+  category: utilities
+  mcc: null
+  confidence: 0.95
+- pattern: \bATT\b
+  merchant_id: att
+  display_name: ATT
+  category: utilities
+  mcc: null
+  confidence: 0.95
+- pattern: \bVERIZON\b
+  merchant_id: verizon
+  display_name: Verizon
+  category: utilities
+  mcc: null
+  confidence: 0.95
+- pattern: \bT\ MOBILE\b
+  merchant_id: t-mobile
+  display_name: T Mobile
+  category: utilities
+  mcc: null
+  confidence: 0.95
+- pattern: \bSPECTRUM\b
+  merchant_id: spectrum
+  display_name: Spectrum
+  category: utilities
+  mcc: null
+  confidence: 0.95
+- pattern: \bCOX\ COMMUNICATIONS\b
+  merchant_id: cox-communications
+  display_name: Cox Communications
+  category: utilities
+  mcc: null
+  confidence: 0.95
+- pattern: \bPG\ E\b
+  merchant_id: pg-e
+  display_name: PG E
+  category: utilities
+  mcc: null
+  confidence: 0.95
+- pattern: \bDUKE\ ENERGY\b
+  merchant_id: duke-energy
+  display_name: Duke Energy
+  category: utilities
+  mcc: null
+  confidence: 0.95
+- pattern: \bCON\ EDISON\b
+  merchant_id: con-edison
+  display_name: Con Edison
+  category: utilities
+  mcc: null
+  confidence: 0.95
+- pattern: \bPAYPAL\b
+  merchant_id: paypal
+  display_name: PayPal
+  category: other
+  mcc: null
+  confidence: 0.4
+- pattern: \bSQUARE\b
+  merchant_id: square
+  display_name: Square
+  category: other
+  mcc: null
+  confidence: 0.4
+- pattern: \bTOAST\b
+  merchant_id: toast
+  display_name: Toast
+  category: other
+  mcc: null
+  confidence: 0.4
+- pattern: \bSTRIPE\b
+  merchant_id: stripe
+  display_name: Stripe
+  category: other
+  mcc: null
+  confidence: 0.4
+- pattern: \bAFFIRM\b
+  merchant_id: affirm
+  display_name: Affirm
+  category: other
+  mcc: null
+  confidence: 0.4
+- pattern: \bKLARNA\b
+  merchant_id: klarna
+  display_name: Klarna
+  category: other
+  mcc: null
+  confidence: 0.4
+- pattern: \bAFTERPAY\b
+  merchant_id: afterpay
+  display_name: Afterpay
+  category: other
+  mcc: null
+  confidence: 0.4

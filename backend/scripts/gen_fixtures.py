@@ -168,6 +168,10 @@ def fixture_db(path: Path):
             "INSERT OR REPLACE INTO statement(wallet_card_id,close_date,statement_balance,source) VALUES(?,?,?,?)",
             ("bofa-customized-cash", "2026-10-12", 120000, "manual"),
         )
+    from whichcard.data_layer import Catalog
+    from whichcard.inference import enrich
+
+    enrich(db, Catalog())
     return db
 
 

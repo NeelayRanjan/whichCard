@@ -57,8 +57,31 @@ def import_command(
     db = connect()
     try:
         result = import_file(db, Path(file), instance.card, adapter)
+        from whichcard.inference import enrich
+
+        enrich(db, catalog)
     except ValueError as exc:
         raise typer.BadParameter(str(exc)) from exc
     finally:
         db.close()
     print(js.dumps(result, indent=2) if json else f"Imported {result['added']} new transactions.")
+
+
+@app.command()
+def review(json: bool = typer.Option(False, "--json")) -> None:
+    import json as js
+
+    from whichcard.inference import review_queue
+    from whichcard.storage import connect
+
+    db = connect()
+    rows = review_queue(db)
+    db.close()
+    print(
+        js.dumps(rows, indent=2)
+        if json
+        else "\n".join(
+            f"{r['id']}: {r['raw_description']} — {r['category']} ({r['confidence']:.0%})" for r in rows
+        )
+        or "No transactions need review."
+    )
