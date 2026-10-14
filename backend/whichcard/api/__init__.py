@@ -1,4 +1,9 @@
-from fastapi import FastAPI
+import sqlite3
+
+from fastapi import Depends, FastAPI, HTTPException
+
+from whichcard.api.service import catalog, database
+from whichcard.engine import Context, recommend
 
 app = FastAPI(title="whichcard", version="0.1.0")
 
@@ -6,3 +11,10 @@ app = FastAPI(title="whichcard", version="0.1.0")
 @app.get("/api/health")
 def health() -> dict[str, str]:
     return {"status": "ok", "version": "0.1.0"}
+
+
+@app.post("/api/recommend")
+def recommend_api(context: Context, db: sqlite3.Connection = Depends(database)):
+    if context.category and context.category not in catalog().categories:
+        raise HTTPException(422, "unknown category")
+    return recommend(context, catalog(), db)

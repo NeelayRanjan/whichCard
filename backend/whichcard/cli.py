@@ -85,3 +85,40 @@ def review(json: bool = typer.Option(False, "--json")) -> None:
         )
         or "No transactions need review."
     )
+
+
+@app.command("recommend")
+def recommend_command(
+    query: str,
+    amount: float = 0,
+    app_context: str | None = typer.Option(None, "--app"),
+    online: bool = False,
+    json: bool = typer.Option(False, "--json"),
+) -> None:
+    import json as js
+
+    from whichcard.data_layer import Catalog
+    from whichcard.engine import Context, money, recommend
+    from whichcard.storage import connect
+
+    db = connect()
+    result = recommend(
+        Context(
+            merchant_query=query,
+            amount_cents=money(amount * 100),
+            app_context=app_context,
+            channel="online" if online else None,
+        ),
+        Catalog(),
+        db,
+    )
+    db.close()
+    print(
+        js.dumps(result, indent=2)
+        if json
+        else "\n\n".join(
+            f"{r['nickname']}: {r['effective_rate_pct']:g}% (${r['est_value_cents'] / 100:.2f})\n"
+            + "\n".join(r["reasons"] + r["warnings"])
+            for r in result["ranked"]
+        )
+    )

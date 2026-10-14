@@ -1,5 +1,5 @@
 # Build plan
-Current task: M4 — rewards engine and golden cases.
+Current task: M5 — long-horizon trackers.
 
 ## M0 Scaffold
 - [x] Repository layout, pinned Python/Node dependencies, Make targets, ignores and assumptions.
@@ -19,9 +19,9 @@ Current task: M4 — rewards engine and golden cases.
 - [x] Overrides persisted on read, learned patterns, low-confidence queue and review CLI.
 - [x] Coverage/ambiguity/override tests; make check; commit.
 ## M4 Engine
-- [ ] Context/ranking, AND matches, partial/exhausted caps, activation warnings, offers, SUB override, foreign fees and ties.
-- [ ] Valuation ranges, arithmetic/reasons/confidence, engine README; API and recommend CLI.
-- [ ] 40+ golden cases and property tests; make check; commit.
+- [x] Context/ranking, AND matches, partial/exhausted caps, activation warnings, offers, SUB override, foreign fees and ties.
+- [x] Valuation ranges, arithmetic/reasons/confidence, engine README; API and recommend CLI.
+- [x] 40+ golden cases and property tests; make check; commit.
 ## M5 Trackers
 - [ ] Bonus pace/status, credit periods/auto/manual usage, trailing-year fee arithmetic and product changes.
 - [ ] Statements/utilization/paydown, dormancy, inquiries, 5/24 age-out timeline; API and CLI.

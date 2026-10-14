@@ -10,3 +10,7 @@ None yet.
 - The example Gold/Platinum limits are synthetic planning limits, not representations of charge-card reporting rules.
 - Selected-category cards require explicit settings; Custom Cash uses a configured expected top category in v1 instead of predicting it.
 - Seeded lounge entries with unknown names are marked as unverified directory checks, never confirmed access; verify membership and admission before travel.
+- Activation-required rates are excluded until explicit wallet activation, while showing a warning; this avoids assuming an unearned rate.
+- Offers are manually maintained and assumed eligible/unused; the reward-rate bound excludes offer value, since the spec's unconditional effective-rate bound conflicts with additive offers.
+- Bonus spend is monotone only for added purchases; refunds correctly reduce it, resolving the spec's overly broad monotonicity property.
+- Caps split a purchase at the remaining allowance. No currency conversion is inferred; foreign-currency rows are flagged and require review of the billed USD amount.

@@ -1,0 +1,418 @@
+- name: dining-online
+  context:
+    category: dining
+    channel: online
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-gold
+  rate: 6
+  override: null
+- name: dining-in_person
+  context:
+    category: dining
+    channel: in_person
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-gold
+  rate: 6
+  override: null
+- name: dining-recurring
+  context:
+    category: dining
+    channel: recurring
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-gold
+  rate: 6
+  override: null
+- name: grocery-online
+  context:
+    category: grocery
+    channel: online
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-gold
+  rate: 6
+  override: null
+- name: grocery-in_person
+  context:
+    category: grocery
+    channel: in_person
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-gold
+  rate: 6
+  override: null
+- name: grocery-recurring
+  context:
+    category: grocery
+    channel: recurring
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-gold
+  rate: 6
+  override: null
+- name: travel-online
+  context:
+    category: travel
+    channel: online
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: chase-sapphire-preferred
+  rate: 3
+  override: null
+- name: travel-in_person
+  context:
+    category: travel
+    channel: in_person
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: chase-sapphire-preferred
+  rate: 3
+  override: null
+- name: travel-recurring
+  context:
+    category: travel
+    channel: recurring
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: chase-sapphire-preferred
+  rate: 3
+  override: null
+- name: airfare-online
+  context:
+    category: airfare
+    channel: online
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-platinum
+  rate: 7.5
+  override: null
+- name: airfare-in_person
+  context:
+    category: airfare
+    channel: in_person
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-platinum
+  rate: 7.5
+  override: null
+- name: airfare-recurring
+  context:
+    category: airfare
+    channel: recurring
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-platinum
+  rate: 7.5
+  override: null
+- name: streaming-online
+  context:
+    category: streaming
+    channel: online
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: chase-sapphire-preferred
+  rate: 4.5
+  override: null
+- name: streaming-in_person
+  context:
+    category: streaming
+    channel: in_person
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: chase-sapphire-preferred
+  rate: 4.5
+  override: null
+- name: streaming-recurring
+  context:
+    category: streaming
+    channel: recurring
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: chase-sapphire-preferred
+  rate: 4.5
+  override: null
+- name: gas-online
+  context:
+    category: gas
+    channel: online
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-gold
+  rate: 1.5
+  override: null
+- name: gas-in_person
+  context:
+    category: gas
+    channel: in_person
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-gold
+  rate: 1.5
+  override: null
+- name: gas-recurring
+  context:
+    category: gas
+    channel: recurring
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-gold
+  rate: 1.5
+  override: null
+- name: other-online
+  context:
+    category: other
+    channel: online
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-gold
+  rate: 1.5
+  override: null
+- name: other-in_person
+  context:
+    category: other
+    channel: in_person
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-gold
+  rate: 1.5
+  override: null
+- name: other-recurring
+  context:
+    category: other
+    channel: recurring
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-gold
+  rate: 1.5
+  override: null
+- name: lodging-online
+  context:
+    category: lodging
+    channel: online
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-gold
+  rate: 1.5
+  override: null
+- name: lodging-in_person
+  context:
+    category: lodging
+    channel: in_person
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-gold
+  rate: 1.5
+  override: null
+- name: lodging-recurring
+  context:
+    category: lodging
+    channel: recurring
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-gold
+  rate: 1.5
+  override: null
+- name: online_shopping-online
+  context:
+    category: online_shopping
+    channel: online
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: bofa-customized-cash
+  rate: 3
+  override: null
+- name: online_shopping-in_person
+  context:
+    category: online_shopping
+    channel: in_person
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: bofa-customized-cash
+  rate: 3
+  override: null
+- name: online_shopping-recurring
+  context:
+    category: online_shopping
+    channel: recurring
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: bofa-customized-cash
+  rate: 3
+  override: null
+- name: transit-online
+  context:
+    category: transit
+    channel: online
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-gold
+  rate: 1.5
+  override: null
+- name: transit-in_person
+  context:
+    category: transit
+    channel: in_person
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-gold
+  rate: 1.5
+  override: null
+- name: transit-recurring
+  context:
+    category: transit
+    channel: recurring
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-gold
+  rate: 1.5
+  override: null
+- name: chipotle
+  context:
+    merchant_query: chipotle
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-gold
+  rate: 6
+  override: null
+- name: safeway
+  context:
+    merchant_query: safeway
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-gold
+  rate: 6
+  override: null
+- name: united airlines
+  context:
+    merchant_query: united airlines
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-platinum
+  rate: 7.5
+  override: null
+- name: netflix.com
+  context:
+    merchant_query: netflix.com
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: chase-sapphire-preferred
+  rate: 4.5
+  override: null
+- name: AMAZON
+  context:
+    merchant_query: AMAZON
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: bofa-customized-cash
+  rate: 3
+  override: null
+- name: mystery xyz
+  context:
+    merchant_query: mystery xyz
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: amex-gold
+  rate: 1.5
+  override: null
+- name: costco
+  context:
+    merchant_query: costco
+    amount_cents: 10000
+    date: '2026-10-14'
+  top: bofa-customized-cash
+  rate: 2
+  override: null
+- name: app
+  context:
+    amount_cents: 10000
+    date: '2026-10-14'
+    app_context: ubereats
+  top: amex-gold
+  rate: 6
+  scene: empty
+  override: null
+- name: portal
+  context:
+    amount_cents: 10000
+    date: '2026-10-14'
+    category: travel
+    portal: chase
+  top: chase-sapphire-preferred
+  rate: 7.5
+  scene: empty
+  override: null
+- name: foreign
+  context:
+    amount_cents: 10000
+    date: '2026-10-14'
+    category: online_shopping
+    is_foreign: true
+  top: amex-gold
+  rate: 1.5
+  scene: empty
+  override: null
+- name: offer
+  context:
+    amount_cents: 10000
+    date: '2026-10-14'
+    merchant_query: chipotle
+  top: bofa-customized-cash
+  rate: 21
+  scene: offer
+  override: null
+- name: cap-after
+  context:
+    amount_cents: 10000
+    date: '2026-10-14'
+    category: online_shopping
+  top: amex-platinum
+  rate: 1.5
+  scene: cap
+  override: null
+- name: sub
+  context:
+    amount_cents: 10000
+    date: '2026-10-14'
+    category: dining
+  top: chase-sapphire-preferred
+  rate: 4.5
+  scene: sub
+  override: signup_bonus
+- name: rotation-not-activated
+  context:
+    amount_cents: 10000
+    date: '2026-10-14'
+    category: gas
+  top: amex-gold
+  rate: 1.5
+  scene: rotation_off
+  override: null
+- name: rotation-on
+  context:
+    amount_cents: 10000
+    date: '2026-10-14'
+    category: gas
+  top: chase-freedom-flex
+  rate: 7.5
+  scene: rotation_on
+  override: null
+- name: rotation-exhausted
+  context:
+    amount_cents: 10000
+    date: '2026-10-14'
+    category: gas
+  top: amex-platinum
+  rate: 1.5
+  scene: rotation_cap
+  override: null
+- name: tie-utilization
+  context:
+    amount_cents: 10000
+    date: '2026-10-14'
+    category: other
+  top: amex-platinum
+  rate: 1.5
+  scene: tie
+  override: null

@@ -30,7 +30,7 @@ ROOT = Path(os.environ.get("WHICHCARD_ROOT", Path(__file__).resolve().parents[3]
 def read_yaml(path: Path, schema: Any) -> Any:
     text = path.read_text()
     try:
-        raw = yaml.safe_load(text)
+        raw = yaml.load(text, Loader=yaml.CSafeLoader)
         return TypeAdapter(schema).validate_python(raw)
     except (yaml.YAMLError, ValidationError, ValueError) as exc:
         line = getattr(getattr(exc, "problem_mark", None), "line", 0) + 1
