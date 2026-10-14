@@ -122,3 +122,21 @@ def recommend_command(
             for r in result["ranked"]
         )
     )
+
+
+def output(value: object, as_json: bool) -> None:
+    import json
+
+    # Indented, labeled fields keep nested arithmetic readable in either mode.
+    print(json.dumps(value, indent=2, default=str))
+
+
+@app.command("trackers")
+def trackers_command(json: bool = typer.Option(False, "--json")) -> None:
+    from whichcard.data_layer import Catalog
+    from whichcard.storage import connect
+    from whichcard.trackers import trackers
+
+    db = connect()
+    output(trackers(Catalog(), db), json)
+    db.close()

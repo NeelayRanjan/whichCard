@@ -1,5 +1,5 @@
 # Build plan
-Current task: M5 — long-horizon trackers.
+Current task: M6 — spend analysis, redemptions and context.
 
 ## M0 Scaffold
 - [x] Repository layout, pinned Python/Node dependencies, Make targets, ignores and assumptions.
@@ -23,9 +23,9 @@ Current task: M5 — long-horizon trackers.
 - [x] Valuation ranges, arithmetic/reasons/confidence, engine README; API and recommend CLI.
 - [x] 40+ golden cases and property tests; make check; commit.
 ## M5 Trackers
-- [ ] Bonus pace/status, credit periods/auto/manual usage, trailing-year fee arithmetic and product changes.
-- [ ] Statements/utilization/paydown, dormancy, inquiries, 5/24 age-out timeline; API and CLI.
-- [ ] Fixture acceptance and property tests; make check; commit.
+- [x] Bonus pace/status, credit periods/auto/manual usage, trailing-year fee arithmetic and product changes.
+- [x] Statements/utilization/paydown, dormancy, inquiries, 5/24 age-out timeline; API and CLI.
+- [x] Fixture acceptance and property tests; make check; commit.
 ## M6 Analysis
 - [ ] Confidence-weighted spend profile; candidate/swap simulation, credits, fees, bonus, score heuristics and sensitivity.
 - [ ] Cash/award/portal/hotel redemption math and transfer ratios; CLI/API.
