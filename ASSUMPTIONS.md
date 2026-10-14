@@ -17,3 +17,6 @@ None yet.
 - Gap simulations route confidence-weighted monthly category/channel segments through the engine and respect caps; missing months are not extrapolated. Selected-category candidates use the largest observed category, disclosed in output.
 - Known lounge names are unverified seeds. Airports without a supported verified program mapping show no access, rather than inventing a membership benefit.
 - Redemption opportunity cost uses typical point values and the cash-versus-tax earning difference; hotel prices/points/fees are per night when nights exceeds one.
+- All-kind findings acceptance adds the supplementary Freedom Flex rotation fixture to the four-card wallet; the shipped example itself has no rotating card.
+- Idle points findings mean a recorded balance above threshold; actual redemption dormancy cannot be established without redemption history, and output says so.
+- Assistant tools use conservative character-bounded payloads, a four-round budget, and a local-only HTTP allowlist. Tool support is an explicit preference because OpenAI-compatible servers lack a uniform capability advertisement.

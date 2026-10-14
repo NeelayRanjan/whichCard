@@ -1,5 +1,5 @@
 # Build plan
-Current task: M7 — findings and local assistant.
+Current task: M8 — seven-screen PWA and smoke verification.
 
 ## M0 Scaffold
 - [x] Repository layout, pinned Python/Node dependencies, Make targets, ignores and assumptions.
@@ -32,10 +32,10 @@ Current task: M7 — findings and local assistant.
 - [x] Lounge access, pinned places and coordinate resolution; now endpoint, alternatives and short notification.
 - [x] Analysis acceptance, zero-uplift properties and latency tests; make check; commit.
 ## M7 Insights and assistant
-- [ ] All finding kinds, reconciled impacts, stable fingerprints/dismissals; insights CLI/API.
-- [ ] Provider interface, mock/local OpenAI provider, bounded tools/retrieval, grounded prompt and local history.
-- [ ] Ask CLI/API, disabled fallback, six suggestions, mock tests and optional live test.
-- [ ] All-kind fixture tests; make check; commit.
+- [x] All finding kinds, reconciled impacts, stable fingerprints/dismissals; insights CLI/API.
+- [x] Provider interface, mock/local OpenAI provider, bounded tools/retrieval, grounded prompt and local history.
+- [x] Ask CLI/API, disabled fallback, six suggestions, mock tests and optional live test.
+- [x] All-kind fixture tests; make check; commit.
 ## M8 PWA
 - [ ] Seven mobile screens: Now, Wallet, Transactions, Plan, Travel, Ask, Settings; API-only financial computations.
 - [ ] Imports, inline overrides, manual credits, preferences, places/offers, dismissals and error/loading states.

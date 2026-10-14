@@ -104,3 +104,37 @@ def place_api(place: Place):
     write_yaml(c.root / "config/places.local.yaml", [p.model_dump() for p in places])
     c.places = places
     return {"status": "saved"}
+
+
+@app.get("/api/findings")
+def findings_api(db: sqlite3.Connection = Depends(database)):
+    from whichcard.insights import generate_findings
+
+    return generate_findings(catalog(), db)
+
+
+@app.post("/api/findings/{fingerprint}/dismiss")
+def dismiss_api(fingerprint: str, db: sqlite3.Connection = Depends(database)):
+    from whichcard.insights import dismiss
+
+    try:
+        dismiss(db, fingerprint)
+    except ValueError as exc:
+        raise HTTPException(404, str(exc)) from exc
+    return {"status": "dismissed"}
+
+
+@app.post("/api/ask")
+def ask_api(payload: dict[str, str], db: sqlite3.Connection = Depends(database)):
+    import httpx
+
+    from whichcard.assistant import ask
+
+    try:
+        return ask(payload.get("question", ""), catalog(), db, payload.get("session_id", "local"))
+    except ValueError as exc:
+        raise HTTPException(422, str(exc)) from exc
+    except (httpx.HTTPError, KeyError, IndexError) as exc:
+        raise HTTPException(
+            502, "Local assistant is unavailable or returned an invalid response. Check endpoint and model."
+        ) from exc

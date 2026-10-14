@@ -187,3 +187,26 @@ def airport_command(iata: str, json: bool = typer.Option(False, "--json")) -> No
     from whichcard.data_layer import Catalog
 
     output(airport(iata, Catalog()), json)
+
+
+@app.command("insights")
+def insights_command(json: bool = typer.Option(False, "--json")) -> None:
+    from whichcard.data_layer import Catalog
+    from whichcard.insights import generate_findings
+    from whichcard.storage import connect
+
+    db = connect()
+    output(generate_findings(Catalog(), db), json)
+    db.close()
+
+
+@app.command("ask")
+def ask_command(question: str, json: bool = typer.Option(False, "--json")) -> None:
+    from whichcard.assistant import ask
+    from whichcard.data_layer import Catalog
+    from whichcard.storage import connect
+
+    db = connect()
+    result = ask(question, Catalog(), db)
+    output(result, json) if json else print(result["answer"])
+    db.close()
