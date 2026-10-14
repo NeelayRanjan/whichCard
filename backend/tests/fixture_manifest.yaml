@@ -1,0 +1,19 @@
+as_of: '2026-10-14'
+start: '2025-11-01'
+end: '2026-10-31'
+cap_date: '2026-10-10'
+rotation_active: '2026-10-01'
+rotation_inactive: '2027-01-01'
+bonus_at_risk: '2026-10-14'
+bonus_on_track: '2026-10-20'
+missed_credit_months:
+- 2
+- 6
+- 10
+last_platinum_purchase: '2026-03-05'
+utilization:
+  wallet_card_id: bofa-customized-cash
+  close_date: '2026-10-12'
+  balance_cents: 120000
+expected_rows: 540
+rotation_card: chase-freedom-flex

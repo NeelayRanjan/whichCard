@@ -1,5 +1,5 @@
 # Build plan
-Current task: M2 — storage, imports and synthetic fixtures.
+Current task: M3 — inference and correction loop.
 
 ## M0 Scaffold
 - [x] Repository layout, pinned Python/Node dependencies, Make targets, ignores and assumptions.
@@ -10,10 +10,10 @@ Current task: M2 — storage, imports and synthetic fixtures.
 - [x] Four-card example wallet, preferences, places, offers; cards list/review CLI and REVIEW_CARDS.md.
 - [x] Positive/negative schema tests; make check; commit.
 ## M2 Storage and import
-- [ ] Versioned idempotent migrations, all state tables and indexes, integer cents and ISO dates.
-- [ ] ImportSource, eight issuer CSV adapters, generic inference, OFX/QFX, signs/flags and dedupe; import CLI.
-- [ ] Deterministic 12-month JSON/CSV/OFX fixtures and manifest covering all required edge cases; scratch fixture DB.
-- [ ] Adapter, dedupe and storage tests; make fixtures and make check; commit.
+- [x] Versioned idempotent migrations, all state tables and indexes, integer cents and ISO dates.
+- [x] ImportSource, eight issuer CSV adapters, generic inference, OFX/QFX, signs/flags and dedupe; import CLI.
+- [x] Deterministic 12-month JSON/CSV/OFX fixtures and manifest covering all required edge cases; scratch fixture DB.
+- [x] Adapter, dedupe and storage tests; make fixtures and make check; commit.
 ## M3 Inference
 - [ ] Normalizer, 250+ patterns, issuer categories, confidence, aliases, channel/recurring detection.
 - [ ] Overrides persisted on read, learned patterns, low-confidence queue and review CLI.

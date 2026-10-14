@@ -1,0 +1,4322 @@
+[
+  {
+    "card": "amex-gold",
+    "date": "2025-11-01",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-11-01",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-11-02",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-11-02",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-11-03",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-11-03",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-11-04",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-11-04",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-11-05",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-11-05",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-11-06",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-11-06",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-11-07",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-11-07",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-11-08",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-11-08",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-11-09",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-11-09",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-11-10",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-11-10",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-11-11",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-11-11",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-11-12",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-11-12",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-11-13",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-11-13",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-11-14",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-11-14",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-11-15",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-11-15",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-11-16",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-11-16",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-11-17",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-11-17",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-11-18",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-11-18",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-11-19",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-11-19",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-11-20",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-11-20",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-11-22",
+    "amount": 1599,
+    "description": "NETFLIX.COM",
+    "category": "Streaming",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-11-23",
+    "amount": 2000,
+    "description": "UBER EATS",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-11-24",
+    "amount": 3500,
+    "description": "AMAZON.COM ORDER 123456",
+    "category": "Shopping",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-platinum",
+    "date": "2025-11-05",
+    "amount": 5000,
+    "description": "SHELL #101",
+    "category": "Gas",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-01",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-12-01",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-02",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-12-02",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-03",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-12-03",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-04",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-12-04",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-05",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-12-05",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-06",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-12-06",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-07",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-12-07",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-08",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-12-08",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-09",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-12-09",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-10",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-12-10",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-11",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-12-11",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-12",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-12-12",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-13",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-12-13",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-14",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-12-14",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-15",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-12-15",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-16",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-12-16",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-17",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-12-17",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-18",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-12-18",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-19",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-12-19",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-20",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-12-20",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-22",
+    "amount": 1599,
+    "description": "NETFLIX.COM",
+    "category": "Streaming",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2025-12-23",
+    "amount": 2000,
+    "description": "UBER EATS",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2025-12-24",
+    "amount": 3500,
+    "description": "AMAZON.COM ORDER 123456",
+    "category": "Shopping",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-platinum",
+    "date": "2025-12-05",
+    "amount": 5000,
+    "description": "SHELL #101",
+    "category": "Gas",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-01",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-01-01",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-02",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-01-02",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-03",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-01-03",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-04",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-01-04",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-05",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-01-05",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-06",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-01-06",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-07",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-01-07",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-08",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-01-08",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-09",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-01-09",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-10",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-01-10",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-11",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-01-11",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-12",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-01-12",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-13",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-01-13",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-14",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-01-14",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-15",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-01-15",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-16",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-01-16",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-17",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-01-17",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-18",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-01-18",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-19",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-01-19",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-20",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-01-20",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-22",
+    "amount": 1599,
+    "description": "NETFLIX.COM",
+    "category": "Streaming",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-01-23",
+    "amount": 2000,
+    "description": "UBER EATS",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-01-24",
+    "amount": 3500,
+    "description": "AMAZON.COM ORDER 123456",
+    "category": "Shopping",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-platinum",
+    "date": "2026-01-05",
+    "amount": 5000,
+    "description": "SHELL #101",
+    "category": "Gas",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-02-01",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-02-01",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-02-02",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-02-02",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-02-03",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-02-03",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-02-04",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-02-04",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-02-05",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-02-05",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-02-06",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-02-06",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-02-07",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-02-07",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-02-08",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-02-08",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-02-09",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-02-09",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-02-10",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-02-10",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-02-11",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-02-11",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-02-12",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-02-12",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-02-13",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-02-13",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-02-14",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-02-14",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-02-15",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-02-15",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-02-16",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-02-16",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-02-17",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-02-17",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-02-18",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-02-18",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-02-19",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-02-19",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-02-20",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-02-20",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-02-22",
+    "amount": 1599,
+    "description": "NETFLIX.COM",
+    "category": "Streaming",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-02-24",
+    "amount": 3500,
+    "description": "AMAZON.COM ORDER 123456",
+    "category": "Shopping",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-platinum",
+    "date": "2026-02-05",
+    "amount": 5000,
+    "description": "SHELL #101",
+    "category": "Gas",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-01",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-03-01",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-02",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-03-02",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-03",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-03-03",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-04",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-03-04",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-05",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-03-05",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-06",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-03-06",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-07",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-03-07",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-08",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-03-08",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-09",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-03-09",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-10",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-03-10",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-11",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-03-11",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-12",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-03-12",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-13",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-03-13",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-14",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-03-14",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-15",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-03-15",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-16",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-03-16",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-17",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-03-17",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-18",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-03-18",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-19",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-03-19",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-20",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-03-20",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-22",
+    "amount": 1599,
+    "description": "NETFLIX.COM",
+    "category": "Streaming",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-03-23",
+    "amount": 2000,
+    "description": "UBER EATS",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-03-24",
+    "amount": 3500,
+    "description": "AMAZON.COM ORDER 123456",
+    "category": "Shopping",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-platinum",
+    "date": "2026-03-05",
+    "amount": 5000,
+    "description": "SHELL #101",
+    "category": "Gas",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-01",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-04-01",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-02",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-04-02",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-03",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-04-03",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-04",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-04-04",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-05",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-04-05",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-06",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-04-06",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-07",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-04-07",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-08",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-04-08",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-09",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-04-09",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-10",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-04-10",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-11",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-04-11",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-12",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-04-12",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-13",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-04-13",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-14",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-04-14",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-15",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-04-15",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-16",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-04-16",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-17",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-04-17",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-18",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-04-18",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-19",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-04-19",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-20",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-04-20",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-22",
+    "amount": 1599,
+    "description": "NETFLIX.COM",
+    "category": "Streaming",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-04-23",
+    "amount": 2000,
+    "description": "UBER EATS",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-04-24",
+    "amount": 3500,
+    "description": "AMAZON.COM ORDER 123456",
+    "category": "Shopping",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-01",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-05-01",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-02",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-05-02",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-03",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-05-03",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-04",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-05-04",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-05",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-05-05",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-06",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-05-06",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-07",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-05-07",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-08",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-05-08",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-09",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-05-09",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-10",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-05-10",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-11",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-05-11",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-12",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-05-12",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-13",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-05-13",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-14",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-05-14",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-15",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-05-15",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-16",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-05-16",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-17",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-05-17",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-18",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-05-18",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-19",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-05-19",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-20",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-05-20",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-22",
+    "amount": 1599,
+    "description": "NETFLIX.COM",
+    "category": "Streaming",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-05-23",
+    "amount": 2000,
+    "description": "UBER EATS",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-05-24",
+    "amount": 3500,
+    "description": "AMAZON.COM ORDER 123456",
+    "category": "Shopping",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-06-01",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-06-01",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-06-02",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-06-02",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-06-03",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-06-03",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-06-04",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-06-04",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-06-05",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-06-05",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-06-06",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-06-06",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-06-07",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-06-07",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-06-08",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-06-08",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-06-09",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-06-09",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-06-10",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-06-10",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-06-11",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-06-11",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-06-12",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-06-12",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-06-13",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-06-13",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-06-14",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-06-14",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-06-15",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-06-15",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-06-16",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-06-16",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-06-17",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-06-17",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-06-18",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-06-18",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-06-19",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-06-19",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-06-20",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-06-20",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-06-22",
+    "amount": 1599,
+    "description": "NETFLIX.COM",
+    "category": "Streaming",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-06-24",
+    "amount": 3500,
+    "description": "AMAZON.COM ORDER 123456",
+    "category": "Shopping",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-01",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-07-01",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-02",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-07-02",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-03",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-07-03",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-04",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-07-04",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-05",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-07-05",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-06",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-07-06",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-07",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-07-07",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-08",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-07-08",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-09",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-07-09",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-10",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-07-10",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-11",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-07-11",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-12",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-07-12",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-13",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-07-13",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-14",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-07-14",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-15",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-07-15",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-16",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-07-16",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-17",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-07-17",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-18",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-07-18",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-19",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-07-19",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-20",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-07-20",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-22",
+    "amount": 1599,
+    "description": "NETFLIX.COM",
+    "category": "Streaming",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-07-23",
+    "amount": 2000,
+    "description": "UBER EATS",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-07-24",
+    "amount": 3500,
+    "description": "AMAZON.COM ORDER 123456",
+    "category": "Shopping",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-01",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-08-01",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-02",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-08-02",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-03",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-08-03",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-04",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-08-04",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-05",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-08-05",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-06",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-08-06",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-07",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-08-07",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-08",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-08-08",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-09",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-08-09",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-10",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-08-10",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-11",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-08-11",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-12",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-08-12",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-13",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-08-13",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-14",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-08-14",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-15",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-08-15",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-16",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-08-16",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-17",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-08-17",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-18",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-08-18",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-19",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-08-19",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-20",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-08-20",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-22",
+    "amount": 1599,
+    "description": "NETFLIX.COM",
+    "category": "Streaming",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-08-23",
+    "amount": 2000,
+    "description": "UBER EATS",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-08-24",
+    "amount": 3500,
+    "description": "AMAZON.COM ORDER 123456",
+    "category": "Shopping",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-01",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-09-01",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-02",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-09-02",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-03",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-09-03",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-04",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-09-04",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-05",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-09-05",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-06",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-09-06",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-07",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-09-07",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-08",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-09-08",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-09",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-09-09",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-10",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-09-10",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-11",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-09-11",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-12",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-09-12",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-13",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-09-13",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-14",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-09-14",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-15",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-09-15",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-16",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-09-16",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-17",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-09-17",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-18",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-09-18",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-19",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-09-19",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-20",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-09-20",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-22",
+    "amount": 1599,
+    "description": "NETFLIX.COM",
+    "category": "Streaming",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-09-23",
+    "amount": 2000,
+    "description": "UBER EATS",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-09-24",
+    "amount": 3500,
+    "description": "AMAZON.COM ORDER 123456",
+    "category": "Shopping",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-10-01",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-01",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-10-02",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-02",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-10-03",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-03",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-10-04",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-04",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-10-05",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-05",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-10-06",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-06",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-10-07",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-07",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-10-08",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-08",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-10-09",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-09",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-10-10",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-10",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-10-11",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-11",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-10-12",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-12",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-10-13",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-13",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-10-14",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-14",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-10-15",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-15",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-10-16",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-16",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-10-17",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-17",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-10-18",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-18",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-10-19",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-19",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-10-20",
+    "amount": 12000,
+    "description": "CHIPOTLE #102 SAN FRANCISCO CA",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-20",
+    "amount": 4500,
+    "description": "SAFEWAY #202 SAN FRANCISCO CA",
+    "category": "Groceries",
+    "currency": "USD"
+  },
+  {
+    "card": "amex-gold",
+    "date": "2026-10-22",
+    "amount": 1599,
+    "description": "NETFLIX.COM",
+    "category": "Streaming",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-24",
+    "amount": 3500,
+    "description": "AMAZON.COM ORDER 123456",
+    "category": "Shopping",
+    "currency": "USD"
+  },
+  {
+    "card": "chase-sapphire-preferred",
+    "date": "2026-09-05",
+    "amount": 10000,
+    "description": "STARBUCKS #122",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "chase-sapphire-preferred",
+    "date": "2026-09-15",
+    "amount": 10000,
+    "description": "STARBUCKS #122",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "chase-sapphire-preferred",
+    "date": "2026-09-25",
+    "amount": 10000,
+    "description": "STARBUCKS #122",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "chase-sapphire-preferred",
+    "date": "2026-10-05",
+    "amount": 10000,
+    "description": "STARBUCKS #122",
+    "category": "Restaurants",
+    "currency": "USD"
+  },
+  {
+    "card": "chase-sapphire-preferred",
+    "date": "2026-10-20",
+    "amount": 350000,
+    "description": "UNITED AIRLINES",
+    "category": "Airlines",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-02",
+    "amount": 90000,
+    "description": "AMZN DIGITAL",
+    "category": "Shopping",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-06",
+    "amount": 90000,
+    "description": "AMZN DIGITAL",
+    "category": "Shopping",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-10",
+    "amount": 90000,
+    "description": "AMZN DIGITAL",
+    "category": "Shopping",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-11",
+    "amount": -5000,
+    "description": "TARGET REFUND",
+    "category": "Other",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-11",
+    "amount": -2000,
+    "description": "TARGET PARTIAL REFUND",
+    "category": "Other",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-11",
+    "amount": -3000,
+    "description": "DISPUTED REVERSAL",
+    "category": "Other",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-11",
+    "amount": 1299,
+    "description": "INTEREST CHARGE",
+    "category": "Other",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-11",
+    "amount": 9500,
+    "description": "ANNUAL FEE",
+    "category": "Other",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-11",
+    "amount": -100000,
+    "description": "PAYMENT THANK YOU",
+    "category": "Other",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-11",
+    "amount": 4500,
+    "description": "COSTCO GAS #0123",
+    "category": "Other",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-11",
+    "amount": 8000,
+    "description": "WALMART SUPERCENTER #22",
+    "category": "Other",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-11",
+    "amount": 3000,
+    "description": "TARGET #45",
+    "category": "Other",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-11",
+    "amount": 600,
+    "description": "SQ * BLUE BOTTLE",
+    "category": "Other",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-11",
+    "amount": 1400,
+    "description": "STARBUCKS.COM",
+    "category": "Other",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-11",
+    "amount": 1500,
+    "description": "STARBUCKS #99",
+    "category": "Other",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-11",
+    "amount": 1999,
+    "description": "MYSTERY XYZ",
+    "category": "Other",
+    "currency": "USD"
+  },
+  {
+    "card": "bofa-customized-cash",
+    "date": "2026-10-12",
+    "amount": 7000,
+    "description": "CAFE PARIS",
+    "category": "Restaurants",
+    "currency": "EUR"
+  }
+]
