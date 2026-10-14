@@ -1,4 +1,7 @@
 import uvicorn
 
+from whichcard.data_layer import Catalog
+
 if __name__ == "__main__":
-    uvicorn.run("whichcard.api:app", host="0.0.0.0", port=8787)
+    config = Catalog().preferences.server
+    uvicorn.run("whichcard.api:app", host=config.bind, port=config.port)

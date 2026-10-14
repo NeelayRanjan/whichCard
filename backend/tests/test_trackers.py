@@ -77,3 +77,20 @@ def test_tracker_api(monkeypatch, tmp_path):
     assert client.get("/api/trackers").status_code == 200
     assert client.post("/api/credits/amex-gold/uber", json={"amount_cents": 1000}).status_code == 200
     assert client.post("/api/credits/bad/bad", json={"amount_cents": 1000}).status_code == 422
+
+
+def test_computed_statements_refresh_and_month_end(catalog):
+    from whichcard.storage import connect
+
+    db = connect(":memory:")
+    card = catalog.wallet.cards[0]
+    card.statement_day = 31
+    day = date(2026, 2, 15)
+    result = utilization(catalog, db, [], day)["cards"][0]
+    assert result["next_statement"] == "2026-02-28"
+    rows = [dict(wallet_card_id=card.card, transaction_date="2026-01-30", amount=10000)]
+    assert utilization(catalog, db, rows, day)["cards"][0]["balance_cents"] == 10000
+    assert (
+        db.execute("SELECT close_date FROM statement WHERE wallet_card_id=?", (card.card,)).fetchone()[0]
+        == "2026-01-31"
+    )

@@ -248,7 +248,7 @@ def recommend(
         low = card_rate(card, instance, ctx, rows, catalog, "cash_out")["effective_rate_pct"]
         high = card_rate(card, instance, ctx, rows, catalog, "optimized")["effective_rate_pct"]
         offer_cents = 0
-        if use_offers:
+        if use_offers and context.amount_cents > 0:
             for offer in catalog.offers:
                 if (
                     offer.wallet_card == card.id

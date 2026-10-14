@@ -266,3 +266,9 @@ class Offer(Model):
     def regex(cls, value: str) -> str:
         validate_regex(value)
         return value
+
+
+class StatementInput(Model):
+    wallet_card_id: str
+    close_date: date
+    statement_balance: int = Field(ge=0)

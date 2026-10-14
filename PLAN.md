@@ -1,5 +1,5 @@
 # Build plan
-Current task: M8 — seven-screen PWA and smoke verification.
+Current task: M9 — runbook, fresh-clone verification and release.
 
 ## M0 Scaffold
 - [x] Repository layout, pinned Python/Node dependencies, Make targets, ignores and assumptions.
@@ -37,10 +37,10 @@ Current task: M8 — seven-screen PWA and smoke verification.
 - [x] Ask CLI/API, disabled fallback, six suggestions, mock tests and optional live test.
 - [x] All-kind fixture tests; make check; commit.
 ## M8 PWA
-- [ ] Seven mobile screens: Now, Wallet, Transactions, Plan, Travel, Ask, Settings; API-only financial computations.
-- [ ] Imports, inline overrides, manual credits, preferences, places/offers, dismissals and error/loading states.
-- [ ] Install manifest, icons, offline shell/read cache, dark mode, backend static serving.
-- [ ] Vitest client/formatting tests, all-endpoint smoke and mobile browser verification; make check; commit.
+- [x] Seven mobile screens: Now, Wallet, Transactions, Plan, Travel, Ask, Settings; API-only financial computations.
+- [x] Imports, inline overrides, manual credits, preferences, places/offers, dismissals and error/loading states.
+- [x] Install manifest, icons, offline shell/read cache, dark mode, backend static serving.
+- [x] Vitest client/formatting tests, all-endpoint smoke and mobile browser verification; make check; commit.
 ## M9 Ship
 - [ ] Four exact Shortcuts recipes, RUNBOOK setup/import/review/LAN/LLM guidance, short README.
 - [ ] Final assumptions/data review; completion CLI/API checks and runtime network audit.

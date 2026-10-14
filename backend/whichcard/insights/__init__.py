@@ -166,7 +166,7 @@ def generate_findings(
                     None,
                     {"card": card.id, "rule": index},
                 )
-        anniversary = instance.opened_on.replace(year=day.year, day=min(instance.opened_on.day, 28))
+        anniversary = shift_month(instance.opened_on, (day.year - instance.opened_on.year) * 12)
         if anniversary < day:
             anniversary = shift_month(anniversary, 12)
         if card.annual_fee and (anniversary - day).days <= 45:

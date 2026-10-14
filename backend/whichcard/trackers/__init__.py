@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import calendar
 import sqlite3
 from datetime import date, timedelta
 from typing import Any
@@ -166,36 +167,43 @@ def utilization(
 ) -> dict[str, Any]:
     results = []
     for c in catalog.wallet.cards:
-        close = date(
-            day.year,
-            day.month,
-            min(c.statement_day, __import__("calendar").monthrange(day.year, day.month)[1]),
-        )
+
+        def close_on(month: date) -> date:
+            return month.replace(day=min(c.statement_day, calendar.monthrange(month.year, month.month)[1]))
+
+        close = close_on(day)
         if close > day:
-            close = shift_month(close, -1)
+            close = close_on(shift_month(day.replace(day=1), -1))
+        previous = close_on(shift_month(close.replace(day=1), -1))
         statement = db.execute(
             "SELECT * FROM statement WHERE wallet_card_id=? AND close_date<=? ORDER BY close_date DESC LIMIT 1",
             (c.card, day.isoformat()),
         ).fetchone()
-        if statement is None:
+        if (
+            statement is not None
+            and statement["source"] == "manual"
+            and statement["close_date"] >= close.isoformat()
+        ):
+            balance = max(0, statement["statement_balance"])
+            source = "manual"
+        else:
             balance = max(
                 0,
                 sum(
                     r["amount"]
                     for r in rows
                     if r["wallet_card_id"] == c.card
-                    and shift_month(close, -1).isoformat() < r["transaction_date"] <= close.isoformat()
+                    and previous.isoformat() < r["transaction_date"] <= close.isoformat()
                 ),
             )
             with db:
                 db.execute(
-                    "INSERT OR IGNORE INTO statement(wallet_card_id,close_date,statement_balance,source) VALUES(?,?,?,?)",
+                    "INSERT INTO statement(wallet_card_id,close_date,statement_balance,source) VALUES(?,?,?,?) "
+                    "ON CONFLICT(wallet_card_id,close_date) DO UPDATE SET statement_balance=excluded.statement_balance "
+                    'WHERE statement.source="computed"',
                     (c.card, close.isoformat(), balance, "computed"),
                 )
             source = "computed"
-        else:
-            balance = max(0, statement["statement_balance"])
-            source = statement["source"]
         limit = money(c.credit_limit * 100)
         pct = 100 * balance / limit
         results.append(
@@ -209,16 +217,7 @@ def utilization(
                 pay_down_cents=max(
                     0, balance - money(limit * catalog.preferences.utilization_targets.per_card / 100)
                 ),
-                next_statement=shift_month(close.replace(day=1), 1)
-                .replace(
-                    day=min(
-                        c.statement_day,
-                        __import__("calendar").monthrange(
-                            shift_month(close, 1).year, shift_month(close, 1).month
-                        )[1],
-                    )
-                )
-                .isoformat(),
+                next_statement=close_on(shift_month(close.replace(day=1), 1)).isoformat(),
             )
         )
     total_balance = sum(r["balance_cents"] for r in results)
