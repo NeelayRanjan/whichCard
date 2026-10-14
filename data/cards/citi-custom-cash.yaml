@@ -1,0 +1,31 @@
+id: citi-custom-cash
+issuer: Citi
+name: Custom Cash
+network: mastercard
+currency: citi-ty
+annual_fee: 0
+foreign_transaction_fee: 0.03
+confidence: low
+verified_on: null
+notes: Seeded from memory. Check annual_fee, earn rates/caps/exclusions, activation
+  dates, credits, bonus eligibility, foreign fees, network and lounge rules. Historical
+  products may be unavailable. Credits are a conservative subset; selected categories
+  require wallet settings.
+earn:
+- match:
+    category: chosen
+  rate: 5.0
+  cap:
+    amount: 500
+    period: month
+    basis: calendar
+- match:
+    any: true
+  rate: 1.0
+credits: []
+perks:
+  lounge_programs: []
+  no_foreign_fee: false
+  other: []
+signup_bonus: null
+product_change_targets: []

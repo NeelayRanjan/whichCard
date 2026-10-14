@@ -1,0 +1,541 @@
+dining:
+  mcc_ranges:
+  - - 5812
+    - 5814
+  issuer_names:
+    Chase:
+    - Dining
+    - Food & Drink
+    - Restaurants
+    - Restaurant
+    Amex:
+    - Dining
+    - Food & Drink
+    - Restaurants
+    - Restaurant
+    Capital One:
+    - Dining
+    - Food & Drink
+    - Restaurants
+    - Restaurant
+    Citi:
+    - Dining
+    - Food & Drink
+    - Restaurants
+    - Restaurant
+    BofA:
+    - Dining
+    - Food & Drink
+    - Restaurants
+    - Restaurant
+    Discover:
+    - Dining
+    - Food & Drink
+    - Restaurants
+    - Restaurant
+    Wells Fargo:
+    - Dining
+    - Food & Drink
+    - Restaurants
+    - Restaurant
+    Apple:
+    - Dining
+    - Food & Drink
+    - Restaurants
+    - Restaurant
+    generic:
+    - Dining
+    - Food & Drink
+    - Restaurants
+    - Restaurant
+grocery:
+  mcc_ranges:
+  - - 5411
+    - 5411
+  issuer_names:
+    Chase:
+    - Grocery
+    - Groceries
+    - Supermarkets
+    Amex:
+    - Grocery
+    - Groceries
+    - Supermarkets
+    Capital One:
+    - Grocery
+    - Groceries
+    - Supermarkets
+    Citi:
+    - Grocery
+    - Groceries
+    - Supermarkets
+    BofA:
+    - Grocery
+    - Groceries
+    - Supermarkets
+    Discover:
+    - Grocery
+    - Groceries
+    - Supermarkets
+    Wells Fargo:
+    - Grocery
+    - Groceries
+    - Supermarkets
+    Apple:
+    - Grocery
+    - Groceries
+    - Supermarkets
+    generic:
+    - Grocery
+    - Groceries
+    - Supermarkets
+gas:
+  mcc_ranges:
+  - - 5541
+    - 5542
+  issuer_names:
+    Chase:
+    - Gas
+    - Gas
+    - Gasoline
+    - Automotive
+    Amex:
+    - Gas
+    - Gas
+    - Gasoline
+    - Automotive
+    Capital One:
+    - Gas
+    - Gas
+    - Gasoline
+    - Automotive
+    Citi:
+    - Gas
+    - Gas
+    - Gasoline
+    - Automotive
+    BofA:
+    - Gas
+    - Gas
+    - Gasoline
+    - Automotive
+    Discover:
+    - Gas
+    - Gas
+    - Gasoline
+    - Automotive
+    Wells Fargo:
+    - Gas
+    - Gas
+    - Gasoline
+    - Automotive
+    Apple:
+    - Gas
+    - Gas
+    - Gasoline
+    - Automotive
+    generic:
+    - Gas
+    - Gas
+    - Gasoline
+    - Automotive
+travel:
+  mcc_ranges: []
+  issuer_names:
+    Chase:
+    - Travel
+    - Travel
+    Amex:
+    - Travel
+    - Travel
+    Capital One:
+    - Travel
+    - Travel
+    Citi:
+    - Travel
+    - Travel
+    BofA:
+    - Travel
+    - Travel
+    Discover:
+    - Travel
+    - Travel
+    Wells Fargo:
+    - Travel
+    - Travel
+    Apple:
+    - Travel
+    - Travel
+    generic:
+    - Travel
+    - Travel
+lodging:
+  mcc_ranges:
+  - - 3501
+    - 3999
+  - - 7011
+    - 7011
+  issuer_names:
+    Chase:
+    - Lodging
+    - Hotels
+    Amex:
+    - Lodging
+    - Hotels
+    Capital One:
+    - Lodging
+    - Hotels
+    Citi:
+    - Lodging
+    - Hotels
+    BofA:
+    - Lodging
+    - Hotels
+    Discover:
+    - Lodging
+    - Hotels
+    Wells Fargo:
+    - Lodging
+    - Hotels
+    Apple:
+    - Lodging
+    - Hotels
+    generic:
+    - Lodging
+    - Hotels
+airfare:
+  mcc_ranges:
+  - - 3000
+    - 3299
+  - - 4511
+    - 4511
+  issuer_names:
+    Chase:
+    - Airfare
+    - Airlines
+    Amex:
+    - Airfare
+    - Airlines
+    Capital One:
+    - Airfare
+    - Airlines
+    Citi:
+    - Airfare
+    - Airlines
+    BofA:
+    - Airfare
+    - Airlines
+    Discover:
+    - Airfare
+    - Airlines
+    Wells Fargo:
+    - Airfare
+    - Airlines
+    Apple:
+    - Airfare
+    - Airlines
+    generic:
+    - Airfare
+    - Airlines
+transit:
+  mcc_ranges: []
+  issuer_names:
+    Chase:
+    - Transit
+    Amex:
+    - Transit
+    Capital One:
+    - Transit
+    Citi:
+    - Transit
+    BofA:
+    - Transit
+    Discover:
+    - Transit
+    Wells Fargo:
+    - Transit
+    Apple:
+    - Transit
+    generic:
+    - Transit
+drugstore:
+  mcc_ranges: []
+  issuer_names:
+    Chase:
+    - Drugstore
+    Amex:
+    - Drugstore
+    Capital One:
+    - Drugstore
+    Citi:
+    - Drugstore
+    BofA:
+    - Drugstore
+    Discover:
+    - Drugstore
+    Wells Fargo:
+    - Drugstore
+    Apple:
+    - Drugstore
+    generic:
+    - Drugstore
+streaming:
+  mcc_ranges: []
+  issuer_names:
+    Chase:
+    - Streaming
+    Amex:
+    - Streaming
+    Capital One:
+    - Streaming
+    Citi:
+    - Streaming
+    BofA:
+    - Streaming
+    Discover:
+    - Streaming
+    Wells Fargo:
+    - Streaming
+    Apple:
+    - Streaming
+    generic:
+    - Streaming
+online_shopping:
+  mcc_ranges: []
+  issuer_names:
+    Chase:
+    - Online Shopping
+    - Shopping
+    - Merchandise
+    Amex:
+    - Online Shopping
+    - Shopping
+    - Merchandise
+    Capital One:
+    - Online Shopping
+    - Shopping
+    - Merchandise
+    Citi:
+    - Online Shopping
+    - Shopping
+    - Merchandise
+    BofA:
+    - Online Shopping
+    - Shopping
+    - Merchandise
+    Discover:
+    - Online Shopping
+    - Shopping
+    - Merchandise
+    Wells Fargo:
+    - Online Shopping
+    - Shopping
+    - Merchandise
+    Apple:
+    - Online Shopping
+    - Shopping
+    - Merchandise
+    generic:
+    - Online Shopping
+    - Shopping
+    - Merchandise
+utilities:
+  mcc_ranges: []
+  issuer_names:
+    Chase:
+    - Utilities
+    - Bills & Utilities
+    Amex:
+    - Utilities
+    - Bills & Utilities
+    Capital One:
+    - Utilities
+    - Bills & Utilities
+    Citi:
+    - Utilities
+    - Bills & Utilities
+    BofA:
+    - Utilities
+    - Bills & Utilities
+    Discover:
+    - Utilities
+    - Bills & Utilities
+    Wells Fargo:
+    - Utilities
+    - Bills & Utilities
+    Apple:
+    - Utilities
+    - Bills & Utilities
+    generic:
+    - Utilities
+    - Bills & Utilities
+home_improvement:
+  mcc_ranges: []
+  issuer_names:
+    Chase:
+    - Home Improvement
+    Amex:
+    - Home Improvement
+    Capital One:
+    - Home Improvement
+    Citi:
+    - Home Improvement
+    BofA:
+    - Home Improvement
+    Discover:
+    - Home Improvement
+    Wells Fargo:
+    - Home Improvement
+    Apple:
+    - Home Improvement
+    generic:
+    - Home Improvement
+wholesale_club:
+  mcc_ranges:
+  - - 5300
+    - 5300
+  issuer_names:
+    Chase:
+    - Wholesale Club
+    Amex:
+    - Wholesale Club
+    Capital One:
+    - Wholesale Club
+    Citi:
+    - Wholesale Club
+    BofA:
+    - Wholesale Club
+    Discover:
+    - Wholesale Club
+    Wells Fargo:
+    - Wholesale Club
+    Apple:
+    - Wholesale Club
+    generic:
+    - Wholesale Club
+entertainment:
+  mcc_ranges: []
+  issuer_names:
+    Chase:
+    - Entertainment
+    Amex:
+    - Entertainment
+    Capital One:
+    - Entertainment
+    Citi:
+    - Entertainment
+    BofA:
+    - Entertainment
+    Discover:
+    - Entertainment
+    Wells Fargo:
+    - Entertainment
+    Apple:
+    - Entertainment
+    generic:
+    - Entertainment
+medical:
+  mcc_ranges: []
+  issuer_names:
+    Chase:
+    - Medical
+    Amex:
+    - Medical
+    Capital One:
+    - Medical
+    Citi:
+    - Medical
+    BofA:
+    - Medical
+    Discover:
+    - Medical
+    Wells Fargo:
+    - Medical
+    Apple:
+    - Medical
+    generic:
+    - Medical
+education:
+  mcc_ranges: []
+  issuer_names:
+    Chase:
+    - Education
+    Amex:
+    - Education
+    Capital One:
+    - Education
+    Citi:
+    - Education
+    BofA:
+    - Education
+    Discover:
+    - Education
+    Wells Fargo:
+    - Education
+    Apple:
+    - Education
+    generic:
+    - Education
+insurance:
+  mcc_ranges: []
+  issuer_names:
+    Chase:
+    - Insurance
+    Amex:
+    - Insurance
+    Capital One:
+    - Insurance
+    Citi:
+    - Insurance
+    BofA:
+    - Insurance
+    Discover:
+    - Insurance
+    Wells Fargo:
+    - Insurance
+    Apple:
+    - Insurance
+    generic:
+    - Insurance
+rent:
+  mcc_ranges: []
+  issuer_names:
+    Chase:
+    - Rent
+    Amex:
+    - Rent
+    Capital One:
+    - Rent
+    Citi:
+    - Rent
+    BofA:
+    - Rent
+    Discover:
+    - Rent
+    Wells Fargo:
+    - Rent
+    Apple:
+    - Rent
+    generic:
+    - Rent
+other:
+  mcc_ranges: []
+  issuer_names:
+    Chase:
+    - Other
+    Amex:
+    - Other
+    Capital One:
+    - Other
+    Citi:
+    - Other
+    BofA:
+    - Other
+    Discover:
+    - Other
+    Wells Fargo:
+    - Other
+    Apple:
+    - Other
+    generic:
+    - Other

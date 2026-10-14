@@ -1,0 +1,32 @@
+chase-ur:
+- partner: united
+  ratio: 1
+  typical_days: 1
+- partner: hyatt
+  ratio: 1
+  typical_days: 1
+- partner: southwest
+  ratio: 1
+  typical_days: 1
+amex-mr:
+- partner: delta
+  ratio: 1
+  typical_days: 1
+- partner: marriott
+  ratio: 1
+  typical_days: 1
+capitalone-miles:
+- partner: air-canada
+  ratio: 1
+  typical_days: 1
+citi-ty:
+- partner: avianca
+  ratio: 1
+  typical_days: 1
+bilt:
+- partner: hyatt
+  ratio: 1
+  typical_days: 1
+- partner: united
+  ratio: 1
+  typical_days: 1

@@ -1,0 +1,15 @@
+ubereats:
+  category: dining
+  channel: online
+  alternatives:
+  - app: doordash
+    perk: Check any eligible monthly delivery credit before ordering.
+doordash:
+  category: dining
+  channel: online
+amazon:
+  category: online_shopping
+  channel: online
+wallet:
+  category: other
+  channel: in_person

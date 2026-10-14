@@ -1,0 +1,15 @@
+goal: balanced
+valuations: {}
+home_airports:
+- SFO
+utilization_targets:
+  per_card: 30
+  total: 10
+assistant:
+  provider: none
+  base_url: http://127.0.0.1:11434
+  model: llama3.2
+server:
+  bind: 0.0.0.0
+  port: 8787
+perk_values: {}

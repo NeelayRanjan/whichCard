@@ -1,0 +1,90 @@
+cash:
+  cash_out: 1
+  typical: 1
+  optimized: 1
+  source_note: Unverified estimates, not guaranteed redemption or cash-out availability;
+    verify eligibility.
+chase-ur:
+  cash_out: 1
+  typical: 1.5
+  optimized: 2
+  source_note: Unverified estimates, not guaranteed redemption or cash-out availability;
+    verify eligibility.
+amex-mr:
+  cash_out: 0.6
+  typical: 1.5
+  optimized: 2
+  source_note: Unverified estimates, not guaranteed redemption or cash-out availability;
+    verify eligibility.
+capitalone-miles:
+  cash_out: 0.5
+  typical: 1.5
+  optimized: 2
+  source_note: Unverified estimates, not guaranteed redemption or cash-out availability;
+    verify eligibility.
+citi-ty:
+  cash_out: 1
+  typical: 1
+  optimized: 1.8
+  source_note: Unverified estimates, not guaranteed redemption or cash-out availability;
+    verify eligibility.
+bofa-points:
+  cash_out: 1
+  typical: 1
+  optimized: 1
+  source_note: Unverified estimates, not guaranteed redemption or cash-out availability;
+    verify eligibility.
+wells-points:
+  cash_out: 1
+  typical: 1
+  optimized: 1.5
+  source_note: Unverified estimates, not guaranteed redemption or cash-out availability;
+    verify eligibility.
+bilt:
+  cash_out: 0.55
+  typical: 1.5
+  optimized: 2
+  source_note: Unverified estimates, not guaranteed redemption or cash-out availability;
+    verify eligibility.
+united:
+  cash_out: 1
+  typical: 1.5
+  optimized: 2
+  source_note: Unverified estimates, not guaranteed redemption or cash-out availability;
+    verify eligibility.
+delta:
+  cash_out: 0.8
+  typical: 1.2
+  optimized: 1.5
+  source_note: Unverified estimates, not guaranteed redemption or cash-out availability;
+    verify eligibility.
+american:
+  cash_out: 1
+  typical: 1.5
+  optimized: 2
+  source_note: Unverified estimates, not guaranteed redemption or cash-out availability;
+    verify eligibility.
+southwest:
+  cash_out: 1
+  typical: 1.3
+  optimized: 1.5
+  source_note: Unverified estimates, not guaranteed redemption or cash-out availability;
+    verify eligibility.
+marriott:
+  cash_out: 0.5
+  typical: 0.7
+  optimized: 1
+  source_note: Unverified estimates, not guaranteed redemption or cash-out availability;
+    verify eligibility.
+hilton:
+  cash_out: 0.3
+  typical: 0.5
+  optimized: 0.7
+  source_note: Unverified estimates, not guaranteed redemption or cash-out availability;
+    verify eligibility.
+hyatt:
+  cash_out: 1
+  typical: 1.7
+  optimized: 2.5
+  source_note: Unverified estimates, not guaranteed redemption or cash-out availability;
+    verify eligibility.

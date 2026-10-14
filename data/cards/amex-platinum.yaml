@@ -1,0 +1,29 @@
+id: amex-platinum
+issuer: Amex
+name: Platinum
+network: amex
+currency: amex-mr
+annual_fee: 895
+foreign_transaction_fee: 0
+confidence: low
+verified_on: null
+notes: Seeded from memory. Check annual_fee, earn rates/caps/exclusions, activation
+  dates, credits, bonus eligibility, foreign fees, network and lounge rules. Historical
+  products may be unavailable. Credits are a conservative subset; selected categories
+  require wallet settings.
+earn:
+- match:
+    category: airfare
+  rate: 5.0
+- match:
+    any: true
+  rate: 1.0
+credits: []
+perks:
+  lounge_programs:
+  - priority-pass
+  - centurion
+  no_foreign_fee: true
+  other: []
+signup_bonus: null
+product_change_targets: []

@@ -1,0 +1,350 @@
+ATL:
+- name: Centurion Lounge
+  terminal: Verify terminal before travel
+  programs:
+  - centurion
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+DFW:
+- name: Centurion Lounge
+  terminal: Verify terminal before travel
+  programs:
+  - centurion
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+DEN:
+- name: Centurion Lounge
+  terminal: Verify terminal before travel
+  programs:
+  - centurion
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+ORD:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+LAX:
+- name: Centurion Lounge
+  terminal: Verify terminal before travel
+  programs:
+  - centurion
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+JFK:
+- name: Centurion Lounge
+  terminal: Verify terminal before travel
+  programs:
+  - centurion
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+LAS:
+- name: Centurion Lounge
+  terminal: Verify terminal before travel
+  programs:
+  - centurion
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+MCO:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+MIA:
+- name: Centurion Lounge
+  terminal: Verify terminal before travel
+  programs:
+  - centurion
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+CLT:
+- name: Centurion Lounge
+  terminal: Verify terminal before travel
+  programs:
+  - centurion
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+SEA:
+- name: Centurion Lounge
+  terminal: Verify terminal before travel
+  programs:
+  - centurion
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+PHX:
+- name: Centurion Lounge
+  terminal: Verify terminal before travel
+  programs:
+  - centurion
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+EWR:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+SFO:
+- name: Centurion Lounge
+  terminal: Verify terminal before travel
+  programs:
+  - centurion
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+IAH:
+- name: Centurion Lounge
+  terminal: Verify terminal before travel
+  programs:
+  - centurion
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+BOS:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+FLL:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+MSP:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+LGA:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+DTW:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+PHL:
+- name: Centurion Lounge
+  terminal: Verify terminal before travel
+  programs:
+  - centurion
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+SLC:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+BWI:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+DCA:
+- name: Centurion Lounge
+  terminal: Verify terminal before travel
+  programs:
+  - centurion
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+SAN:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+IAD:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+TPA:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+BNA:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+AUS:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+MDW:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+HNL:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+DAL:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+PDX:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+STL:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+RDU:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+HOU:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+SJC:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+MSY:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+OAK:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+SMF:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+LHR:
+- name: Centurion Lounge
+  terminal: Verify terminal before travel
+  programs:
+  - centurion
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+NRT:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+HND:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+ICN:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+CDG:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+FRA:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+AMS:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+YYZ:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+YVR:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.
+MEX:
+- name: "Airport lounge \u2014 verify current program directory"
+  terminal: Verify terminal before travel
+  programs:
+  - priority-pass
+  confidence: low
+  notes: Seeded from memory; lounge existence, exact name and access are unverified.

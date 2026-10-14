@@ -1,0 +1,35 @@
+id: discover-it
+issuer: Discover
+name: Discover it
+network: discover
+currency: cash
+annual_fee: 0
+foreign_transaction_fee: 0
+confidence: low
+verified_on: null
+notes: Seeded from memory. Check annual_fee, earn rates/caps/exclusions, activation
+  dates, credits, bonus eligibility, foreign fees, network and lounge rules. Historical
+  products may be unavailable. Credits are a conservative subset; selected categories
+  require wallet settings.
+earn:
+- match:
+    any: true
+  rate: 1.0
+- match:
+    category: gas
+  rate: 5
+  cap:
+    amount: 1500
+    period: quarter
+    basis: calendar
+  active:
+    from: '2026-10-01'
+    to: '2026-12-31'
+    requires_activation: true
+credits: []
+perks:
+  lounge_programs: []
+  no_foreign_fee: true
+  other: []
+signup_bonus: null
+product_change_targets: []

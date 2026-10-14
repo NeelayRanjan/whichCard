@@ -1,0 +1,30 @@
+id: bofa-premium-rewards
+issuer: BofA
+name: Premium Rewards
+network: visa
+currency: bofa-points
+annual_fee: 95
+foreign_transaction_fee: 0
+confidence: low
+verified_on: null
+notes: Seeded from memory. Check annual_fee, earn rates/caps/exclusions, activation
+  dates, credits, bonus eligibility, foreign fees, network and lounge rules. Historical
+  products may be unavailable. Credits are a conservative subset; selected categories
+  require wallet settings.
+earn:
+- match:
+    category: dining
+  rate: 2.0
+- match:
+    category: travel
+  rate: 2.0
+- match:
+    any: true
+  rate: 1.5
+credits: []
+perks:
+  lounge_programs: []
+  no_foreign_fee: true
+  other: []
+signup_bonus: null
+product_change_targets: []

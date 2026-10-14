@@ -1,14 +1,14 @@
 # Build plan
-Current task: M1 — validated reference data.
+Current task: M2 — storage, imports and synthetic fixtures.
 
 ## M0 Scaffold
 - [x] Repository layout, pinned Python/Node dependencies, Make targets, ignores and assumptions.
 - [x] Health API, CLI entry point, Vite shell; lint, types, tests and build; commit.
 ## M1 Data layer
-- [ ] Strict YAML models/loaders for all reference and config files with file/line errors.
-- [ ] At least 36 unverified cards, categories, valuations, transfers, app contexts, lounge programs and 50 airports, vendored airport coordinates.
-- [ ] Four-card example wallet, preferences, places, offers; cards list/review CLI and REVIEW_CARDS.md.
-- [ ] Positive/negative schema tests; make check; commit.
+- [x] Strict YAML models/loaders for all reference and config files with file/line errors.
+- [x] At least 36 unverified cards, categories, valuations, transfers, app contexts, lounge programs and 50 airports, vendored airport coordinates.
+- [x] Four-card example wallet, preferences, places, offers; cards list/review CLI and REVIEW_CARDS.md.
+- [x] Positive/negative schema tests; make check; commit.
 ## M2 Storage and import
 - [ ] Versioned idempotent migrations, all state tables and indexes, integer cents and ISO dates.
 - [ ] ImportSource, eight issuer CSV adapters, generic inference, OFX/QFX, signs/flags and dedupe; import CLI.

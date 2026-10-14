@@ -1,0 +1,40 @@
+id: amex-gold
+issuer: Amex
+name: Gold
+network: amex
+currency: amex-mr
+annual_fee: 325
+foreign_transaction_fee: 0
+confidence: low
+verified_on: null
+notes: Seeded from memory. Check annual_fee, earn rates/caps/exclusions, activation
+  dates, credits, bonus eligibility, foreign fees, network and lounge rules. Historical
+  products may be unavailable. Credits are a conservative subset; selected categories
+  require wallet settings.
+earn:
+- match:
+    category: dining
+  rate: 4.0
+- match:
+    category: grocery
+  rate: 4.0
+- match:
+    category: airfare
+  rate: 3.0
+- match:
+    any: true
+  rate: 1.0
+credits:
+- id: uber
+  name: Monthly Uber credit (eligibility unverified)
+  amount: 10
+  period: month
+  reset: calendar
+  match:
+    merchant_pattern: UBER
+perks:
+  lounge_programs: []
+  no_foreign_fee: true
+  other: []
+signup_bonus: null
+product_change_targets: []

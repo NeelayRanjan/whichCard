@@ -1,0 +1,16 @@
+priority-pass:
+  name: Priority Pass
+  guest_rules: Verify guest fee, enrollment and visit limits with issuer.
+  notes: Unverified seed; admission and capacity restrictions apply.
+centurion:
+  name: Centurion
+  guest_rules: Verify guest fee, enrollment and visit limits with issuer.
+  notes: Unverified seed; admission and capacity restrictions apply.
+united-club:
+  name: United Club
+  guest_rules: Verify guest fee, enrollment and visit limits with issuer.
+  notes: Unverified seed; admission and capacity restrictions apply.
+delta-skyclub:
+  name: Delta Sky Club
+  guest_rules: Verify guest fee, enrollment and visit limits with issuer.
+  notes: Unverified seed; admission and capacity restrictions apply.
