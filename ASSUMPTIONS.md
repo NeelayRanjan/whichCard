@@ -14,3 +14,6 @@ None yet.
 - Offers are manually maintained and assumed eligible/unused; the reward-rate bound excludes offer value, since the spec's unconditional effective-rate bound conflicts with additive offers.
 - Bonus spend is monotone only for added purchases; refunds correctly reduce it, resolving the spec's overly broad monotonicity property.
 - Caps split a purchase at the remaining allowance. No currency conversion is inferred; foreign-currency rows are flagged and require review of the billed USD amount.
+- Gap simulations route confidence-weighted monthly category/channel segments through the engine and respect caps; missing months are not extrapolated. Selected-category candidates use the largest observed category, disclosed in output.
+- Known lounge names are unverified seeds. Airports without a supported verified program mapping show no access, rather than inventing a membership benefit.
+- Redemption opportunity cost uses typical point values and the cash-versus-tax earning difference; hotel prices/points/fees are per night when nights exceeds one.

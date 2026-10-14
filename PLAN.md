@@ -1,5 +1,5 @@
 # Build plan
-Current task: M6 — spend analysis, redemptions and context.
+Current task: M7 — findings and local assistant.
 
 ## M0 Scaffold
 - [x] Repository layout, pinned Python/Node dependencies, Make targets, ignores and assumptions.
@@ -27,10 +27,10 @@ Current task: M6 — spend analysis, redemptions and context.
 - [x] Statements/utilization/paydown, dormancy, inquiries, 5/24 age-out timeline; API and CLI.
 - [x] Fixture acceptance and property tests; make check; commit.
 ## M6 Analysis
-- [ ] Confidence-weighted spend profile; candidate/swap simulation, credits, fees, bonus, score heuristics and sensitivity.
-- [ ] Cash/award/portal/hotel redemption math and transfer ratios; CLI/API.
-- [ ] Lounge access, pinned places and coordinate resolution; now endpoint, alternatives and short notification.
-- [ ] Analysis acceptance, zero-uplift properties and latency tests; make check; commit.
+- [x] Confidence-weighted spend profile; candidate/swap simulation, credits, fees, bonus, score heuristics and sensitivity.
+- [x] Cash/award/portal/hotel redemption math and transfer ratios; CLI/API.
+- [x] Lounge access, pinned places and coordinate resolution; now endpoint, alternatives and short notification.
+- [x] Analysis acceptance, zero-uplift properties and latency tests; make check; commit.
 ## M7 Insights and assistant
 - [ ] All finding kinds, reconciled impacts, stable fingerprints/dismissals; insights CLI/API.
 - [ ] Provider interface, mock/local OpenAI provider, bounded tools/retrieval, grounded prompt and local history.

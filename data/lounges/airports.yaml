@@ -20,8 +20,8 @@ DEN:
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 ORD:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: Swissport Lounge
+  terminal: Terminal 5
   programs:
   - priority-pass
   confidence: low
@@ -48,8 +48,8 @@ LAS:
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 MCO:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: The Club MCO
+  terminal: Airside 1 / 4
   programs:
   - priority-pass
   confidence: low
@@ -83,8 +83,8 @@ PHX:
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 EWR:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: Lufthansa Business Lounge
+  terminal: Terminal B
   programs:
   - priority-pass
   confidence: low
@@ -104,36 +104,35 @@ IAH:
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 BOS:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: The Lounge BOS
+  terminal: Terminal C
   programs:
   - priority-pass
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 FLL:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: The Club FLL
+  terminal: Terminal 4
   programs:
   - priority-pass
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 MSP:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
-  programs:
-  - priority-pass
+- name: Escape Lounge
+  terminal: Terminal 1
+  programs: []
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 LGA:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: Centurion Lounge
+  terminal: Terminal B
   programs:
-  - priority-pass
+  - centurion
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 DTW:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: Lufthansa Business Lounge
+  terminal: North Terminal
   programs:
   - priority-pass
   confidence: low
@@ -146,15 +145,15 @@ PHL:
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 SLC:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: Delta Sky Club
+  terminal: Concourse A
   programs:
-  - priority-pass
+  - delta-skyclub
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 BWI:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: The Club BWI
+  terminal: Concourse D
   programs:
   - priority-pass
   confidence: low
@@ -167,115 +166,109 @@ DCA:
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 SAN:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: Aspire Lounge
+  terminal: Terminal 2
   programs:
   - priority-pass
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 IAD:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: Turkish Airlines Lounge
+  terminal: Concourse B
   programs:
   - priority-pass
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 TPA:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: The Club TPA
+  terminal: Airside F
   programs:
   - priority-pass
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 BNA:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: The Club BNA
+  terminal: Concourse D
   programs:
   - priority-pass
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 AUS:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: Chase Sapphire Lounge by The Club
+  terminal: "Main Terminal \u2014 verify opening"
   programs:
   - priority-pass
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 MDW:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: The Club MDW
+  terminal: Central Market
   programs:
   - priority-pass
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 HNL:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: The Plumeria Lounge
+  terminal: Terminal 1
   programs:
   - priority-pass
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 DAL:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
-  programs:
-  - priority-pass
+- name: No participating lounge verified
+  terminal: Check airport directory
+  programs: []
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 PDX:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
-  programs:
-  - priority-pass
+- name: Alaska Lounge
+  terminal: Concourse C
+  programs: []
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 STL:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: Wingtips Lounge
+  terminal: Terminal 2
   programs:
   - priority-pass
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 RDU:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
-  programs:
-  - priority-pass
+- name: Admirals Club
+  terminal: Terminal 2
+  programs: []
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 HOU:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
-  programs:
-  - priority-pass
+- name: No participating lounge verified
+  terminal: Check airport directory
+  programs: []
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 SJC:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: The Club SJC
+  terminal: Terminal A
   programs:
   - priority-pass
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 MSY:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: The Club MSY
+  terminal: Concourse A
   programs:
   - priority-pass
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 OAK:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
-  programs:
-  - priority-pass
+- name: Escape Lounge
+  terminal: Terminal 1
+  programs: []
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 SMF:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
-  programs:
-  - priority-pass
+- name: Escape Lounge
+  terminal: Terminal A / B
+  programs: []
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 LHR:
@@ -286,64 +279,64 @@ LHR:
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 NRT:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: IASS Executive Lounge
+  terminal: Terminal 1 / 2
   programs:
   - priority-pass
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 HND:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: TIAT Lounge
+  terminal: Terminal 3
   programs:
   - priority-pass
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 ICN:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: Matina Lounge
+  terminal: Terminal 1 / 2
   programs:
   - priority-pass
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 CDG:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: Extime Lounge
+  terminal: Terminal 2B/2D
   programs:
   - priority-pass
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 FRA:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: LuxxLounge
+  terminal: Terminal 1 landside
   programs:
   - priority-pass
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 AMS:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: Aspire Lounge
+  terminal: Lounge 26 / 41
   programs:
   - priority-pass
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 YYZ:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: Plaza Premium Lounge
+  terminal: Terminal 1 / 3
   programs:
   - priority-pass
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 YVR:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: Plaza Premium Lounge
+  terminal: International / Domestic
   programs:
   - priority-pass
   confidence: low
   notes: Seeded from memory; lounge existence, exact name and access are unverified.
 MEX:
-- name: "Airport lounge \u2014 verify current program directory"
-  terminal: Verify terminal before travel
+- name: Grand Lounge Elite
+  terminal: Terminal 1
   programs:
   - priority-pass
   confidence: low

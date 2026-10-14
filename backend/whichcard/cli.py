@@ -140,3 +140,50 @@ def trackers_command(json: bool = typer.Option(False, "--json")) -> None:
     db = connect()
     output(trackers(Catalog(), db), json)
     db.close()
+
+
+@app.command("gap")
+def gap_command(json: bool = typer.Option(False, "--json")) -> None:
+    from whichcard.analysis import gap_analysis
+    from whichcard.data_layer import Catalog
+    from whichcard.storage import connect
+
+    db = connect()
+    output(gap_analysis(Catalog(), db), json)
+    db.close()
+
+
+@app.command("redeem")
+def redeem_command(
+    cash: float = 420,
+    points: int = 28000,
+    program: str = "united",
+    fees: float = 11.20,
+    json: bool = typer.Option(False, "--json"),
+) -> None:
+    from whichcard.analysis import Award, Redemption, redemption
+    from whichcard.data_layer import Catalog
+    from whichcard.engine import money
+    from whichcard.storage import connect
+
+    db = connect()
+    output(
+        redemption(
+            Redemption(
+                cash_price_cents=money(cash * 100),
+                awards=[Award(program=program, points=points, fees_cents=money(fees * 100))],
+            ),
+            Catalog(),
+            db,
+        ),
+        json,
+    )
+    db.close()
+
+
+@app.command("airport")
+def airport_command(iata: str, json: bool = typer.Option(False, "--json")) -> None:
+    from whichcard.analysis import airport
+    from whichcard.data_layer import Catalog
+
+    output(airport(iata, Catalog()), json)
