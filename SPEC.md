@@ -607,29 +607,29 @@ the user to spend ten minutes on this file before trusting any recommendation.
 The run ends only when every line is true. Check them yourself; do not report done
 on the strength of the milestone commits alone.
 
-- [ ] `SPEC.md`, `AGENTS.md`, `PLAN.md` (all boxes ticked), `ASSUMPTIONS.md`,
+- [x] `SPEC.md`, `AGENTS.md`, `PLAN.md` (all boxes ticked), `ASSUMPTIONS.md`,
       `RUNBOOK.md`, `REVIEW_CARDS.md`, `shortcuts/README.md` exist and are current.
-- [ ] `make check` passes on a fresh clone in a temp directory with no cached
+- [x] `make check` passes on a fresh clone in a temp directory with no cached
       dependencies beyond the package registries.
-- [ ] `make fixtures` then `make smoke` pass on that fresh clone.
-- [ ] `whichcard recommend costco --amount 180 --json` returns a ranked list with
+- [x] `make fixtures` then `make smoke` pass on that fresh clone.
+- [x] `whichcard recommend costco --amount 180 --json` returns a ranked list with
       reasons, a range, and a confidence, against the fixture db.
-- [ ] `whichcard trackers`, `whichcard insights`, `whichcard gap`,
+- [x] `whichcard trackers`, `whichcard insights`, `whichcard gap`,
       `whichcard redeem`, and `whichcard airport SFO` each produce output against
       the fixture db without error.
-- [ ] `GET /api/now?app=ubereats` returns a `notification_text` under 120
+- [x] `GET /api/now?app=ubereats` returns a `notification_text` under 120
       characters.
-- [ ] The PWA builds, is served by the backend, installs on a phone-width
+- [x] The PWA builds, is served by the backend, installs on a phone-width
       viewport, and every screen renders data from the fixture db.
-- [ ] With `assistant.provider: none`, the Ask screen degrades to the findings
+- [x] With `assistant.provider: none`, the Ask screen degrades to the findings
       feed; with the mock provider, the assistant test suite passes; the
       live-endpoint test is skipped, not failed, when no server is reachable.
-- [ ] No file under `data/cards/` carries `confidence: high` or a non-null
+- [x] No file under `data/cards/` carries `confidence: high` or a non-null
       `verified_on`.
-- [ ] `git status` is clean, the final commit is tagged `v0.1.0`, and `var/`,
+- [x] `git status` is clean, the final commit is tagged `v0.1.0`, and `var/`,
       `imports/`, and `config/wallet.yaml` are gitignored (with
       `wallet.example.yaml` committed).
-- [ ] `RUNBOOK.md` covers: install, first run, filling `wallet.yaml`, exporting
+- [x] `RUNBOOK.md` covers: install, first run, filling `wallet.yaml`, exporting
       CSVs from each supported issuer, importing, reviewing low-confidence rows,
       setting up Shortcuts, reaching the server from a phone, enabling a local LLM,
       and the ten-minute `REVIEW_CARDS.md` pass.

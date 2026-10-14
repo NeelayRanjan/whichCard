@@ -25,12 +25,17 @@
 # Deviations
 - Learned corrections are written to gitignored `learned.local.yaml` instead of committing user-derived patterns into `learned.yaml`; defaults remain versioned and load first.
 - Unconditional rate-bound and SUB-monotonicity requirements are inconsistent with offers/refunds; tests bound reward-only rates and purchase-only monotonicity while separately testing offers and refunds.
-- Native installation on an actual phone cannot be performed here. Chrome at phone width passes the platform installability checks; private HTTPS provisioning remains a documented user setup step.
+- Private HTTPS provisioning remains an external setup step for phones; the app is verified installable in Chrome at a 390 px viewport.
 - v1 limits mutable wallet instances to one per product, uses explicit expected-category settings for Custom Cash, and seeds a conservative subset of complex credits; these limits are disclosed before reliance.
 
 # Validation record
 - 38 seeded cards; 363 merchant patterns; 50 lounge-airport entries and vendored large/medium airport coordinates.
 - 47 golden recommendation cases plus Hypothesis properties, fixture acceptance, API and frontend tests.
 - Chrome at 390 px: all seven screens render fixture data without horizontal overflow; desktop layout visually inspected.
-- Normal isolated Chrome profile: installability error list empty; offline reload renders shell and cached recommendation; no external browser requests or JavaScript errors.
+- Normal isolated Chrome profile: installability error list empty; offline reload renders shell and cached data on all seven screens; no external browser requests or JavaScript errors.
 - First-load service-worker caching and refreshed computed statement balances have regression tests.
+
+- Release candidate f2f0e0d passed a clean temporary clone with a newly created virtualenv, pip cache disabled and a fresh npm cache: `make setup`, `make check`, `make fixtures`, `make smoke`, and all CLI completion checks.
+- Final automated results: 100 Python tests passed; 1 optional live-LLM test skipped; 8 frontend tests passed; Ruff, mypy, TypeScript and production build passed. Package-specific coverage: engine 98.3%, trackers 100%, analysis 98.4%, inference 100%.
+- Both light and dark phone-width layouts were inspected. Chrome reported no installability errors, browser JavaScript errors or external requests. All seven screens returned cached data offline.
+- `var/`, `imports/` and `config/wallet.yaml` are ignored; no private runtime files are tracked. Milestone commits and the release tag are local to this checkout.
