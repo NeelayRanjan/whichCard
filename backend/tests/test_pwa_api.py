@@ -97,3 +97,14 @@ def test_settings_transactions_import(catalog, db, monkeypatch):
         )
     finally:
         app.dependency_overrides.clear()
+
+
+def test_daily_summary(catalog, db, monkeypatch):
+    monkeypatch.setattr("whichcard.api.catalog", lambda: catalog)
+    monkeypatch.setenv("WHICHCARD_TODAY", "2026-10-14")
+    app.dependency_overrides[database] = lambda: db
+    try:
+        result = TestClient(app).get("/api/now?summary=true").json()
+        assert len(result["notification_text"]) < 120 and result["bonuses"][0]["status"] == "at_risk"
+    finally:
+        app.dependency_overrides.clear()

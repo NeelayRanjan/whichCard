@@ -101,6 +101,7 @@ def main() -> None:
                     "category=dining",
                     "merchant=costco",
                     "lat=37.619&lon=-122.375",
+                    "summary=true",
                 ]:
                     assert len(check("GET", "/api/now?" + query)["notification_text"]) < 120
                 recommendation = check(

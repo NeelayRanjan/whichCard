@@ -112,10 +112,35 @@ def now_api(
     lat: float | None = None,
     lon: float | None = None,
     amount_cents: int = 0,
+    summary: bool = False,
     db: sqlite3.Connection = Depends(database),
 ):
     from whichcard.analysis import now
 
+    if summary:
+        from whichcard.engine import bonus_status, today
+        from whichcard.storage import transactions
+        from whichcard.trackers import credit_status
+
+        day = today()
+        c = catalog()
+        rows = transactions(db, before=day.isoformat())
+        bonuses = [b for card in c.wallet.cards if (b := bonus_status(card, rows, day)) is not None]
+        credits = [
+            credit_status(card, credit, rows, db, day)
+            for card in c.wallet.cards
+            for credit in c.cards[card.card].credits
+        ]
+        risk = sum(b["status"] == "at_risk" for b in bonuses)
+        unused = sum(credit["remaining_cents"] for credit in credits)
+        return {
+            "notification_text": f"{risk} bonuses behind pace. ${unused / 100:.2f} in credits left. Open Wallet for deadlines."[
+                :119
+            ],
+            "bonuses": bonuses,
+            "credits": credits,
+            "as_of": day.isoformat(),
+        }
     try:
         return now(
             Context(

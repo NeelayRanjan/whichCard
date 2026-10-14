@@ -1,5 +1,5 @@
 # Build plan
-Current task: M9 — runbook, fresh-clone verification and release.
+Current task: M9 — fresh-clone acceptance audit.
 
 ## M0 Scaffold
 - [x] Repository layout, pinned Python/Node dependencies, Make targets, ignores and assumptions.
@@ -42,7 +42,7 @@ Current task: M9 — runbook, fresh-clone verification and release.
 - [x] Install manifest, icons, offline shell/read cache, dark mode, backend static serving.
 - [x] Vitest client/formatting tests, all-endpoint smoke and mobile browser verification; make check; commit.
 ## M9 Ship
-- [ ] Four exact Shortcuts recipes, RUNBOOK setup/import/review/LAN/LLM guidance, short README.
-- [ ] Final assumptions/data review; completion CLI/API checks and runtime network audit.
+- [x] Four exact Shortcuts recipes, RUNBOOK setup/import/review/LAN/LLM guidance, short README.
+- [x] Final assumptions/data review; completion CLI/API checks and runtime network audit.
 - [ ] Fresh clone: setup/check/fixtures/smoke; fix failures and repeat before final commit.
 - [ ] All completion requirements verified, clean git, final milestone commit and v0.1.0 tag.

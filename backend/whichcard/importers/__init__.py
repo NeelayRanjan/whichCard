@@ -109,6 +109,16 @@ class CSVSource:
             dialect = csv.excel
         reader = csv.DictReader(text.splitlines(), dialect=dialect)
         headers = list(reader.fieldnames or [])
+        # Wells Fargo's five-column download can omit its header entirely.
+        if len(headers) == 5 and self.adapter in {None, "wellsfargo"}:
+            try:
+                parse_date(headers[0])
+                cents(headers[1])
+            except ValueError:
+                pass
+            else:
+                headers = HEADERS["wellsfargo"]
+                reader = csv.DictReader(text.splitlines(), fieldnames=headers, dialect=dialect)
         adapter = self.adapter or detect(headers)
         if adapter not in HEADERS:
             raise ValueError(f"unknown adapter: {adapter}")

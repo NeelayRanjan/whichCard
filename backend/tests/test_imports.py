@@ -65,3 +65,11 @@ def test_fixture_generation_is_deterministic():
     first = (FIX / "combined.json").read_bytes()
     module.generate()
     assert first == (FIX / "combined.json").read_bytes()
+
+
+def test_headerless_wells(tmp_path):
+    p = tmp_path / "wells.csv"
+    p.write_text("10/01/2026,-25.10,*,0,STARBUCKS\n10/02/2026,5.00,*,0,REFUND\n")
+    rows = list(CSVSource().read(p))
+    assert [r.amount for r in rows] == [2510, -500]
+    assert rows[1].is_refund

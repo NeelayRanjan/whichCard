@@ -127,8 +127,32 @@ def recommend_command(
 def output(value: object, as_json: bool) -> None:
     import json
 
-    # Indented, labeled fields keep nested arithmetic readable in either mode.
-    print(json.dumps(value, indent=2, default=str))
+    if as_json:
+        print(json.dumps(value, indent=2, default=str))
+        return
+
+    def render(item: object, depth: int = 0) -> None:
+        pad = "  " * depth
+        if isinstance(item, dict):
+            for key, val in item.items():
+                label = str(key).replace("_", " ").capitalize()
+                if isinstance(val, (dict, list)):
+                    print(f"{pad}{label}:")
+                    render(val, depth + 1)
+                elif str(key).endswith("_cents") and isinstance(val, (int, float)):
+                    print(f"{pad}{label.removesuffix(' cents')}: ${val / 100:,.2f}")
+                else:
+                    print(f"{pad}{label}: {val if val is not None else '—'}")
+        elif isinstance(item, list):
+            if not item:
+                print(pad + "None recorded.")
+            for val in item:
+                render(val, depth)
+                print()
+        else:
+            print(pad + str(item))
+
+    render(value)
 
 
 @app.command("trackers")
